@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>其他</masterLabel>
+        <translation><!-- 其他 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>分析師</masterLabel>
+        <translation><!-- 分析師 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>合作夥伴</masterLabel>
+        <translation><!-- 合作夥伴 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>客戶</masterLabel>
+        <translation><!-- 客戶 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>投資者</masterLabel>
+        <translation><!-- 投資者 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>整合者</masterLabel>
+        <translation><!-- 整合者 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>新聞媒體</masterLabel>
+        <translation><!-- 新聞媒體 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>潛在客戶</masterLabel>
+        <translation><!-- 潛在客戶 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>競爭者</masterLabel>
+        <translation><!-- 競爭者 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>轉售商</masterLabel>
+        <translation><!-- 轉售商 --></translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

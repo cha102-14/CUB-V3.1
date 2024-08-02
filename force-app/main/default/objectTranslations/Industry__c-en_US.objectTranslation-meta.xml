@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- Industry --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- Industry --></value>
+    </caseValues>
+    <fields>
+        <label><!-- 行業別子類 --></label>
+        <name>Industry_Subcategory__c</name>
+    </fields>
+    <fields>
+        <label><!-- 行業別類型 --></label>
+        <name>Industry_Type__c</name>
+        <picklistValues>
+            <masterLabel>主計處</masterLabel>
+            <translation><!-- 主計處 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>洗防部</masterLabel>
+            <translation><!-- 洗防部 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 行業別 --></label>
+        <name>Industry__c</name>
+    </fields>
+    <nameFieldLabel><!-- Industry Name --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

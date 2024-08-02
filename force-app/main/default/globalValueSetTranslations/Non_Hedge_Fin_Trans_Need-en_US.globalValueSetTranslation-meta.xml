@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>否</masterLabel>
+        <translation><!-- 否 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>是，淨值&gt;=新台幣1億</masterLabel>
+        <translation><!-- 是，淨值&gt;=新台幣1億 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>是，約當現金&gt;=新台幣1億</masterLabel>
+        <translation><!-- 是，約當現金&gt;=新台幣1億 --></translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

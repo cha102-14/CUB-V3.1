@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 金融交易額度 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 金融交易額度 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- 客戶非公開資訊 --></label>
+        <name>Account_Private_Info__c</name>
+        <relationshipLabel><!-- 金融交易額度 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 客戶 --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- 金融交易額度 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 額度金額 --></label>
+        <name>Facility_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 剩餘可用額度 --></label>
+        <name>Facility_Balance__c</name>
+    </fields>
+    <fields>
+        <label><!-- 額度期限 --></label>
+        <name>Facility_Term__c</name>
+    </fields>
+    <fields>
+        <label><!-- 金融交易額度外鍵 --></label>
+        <name>TMU_Transaction_Limit_External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 額度使用率 --></label>
+        <name>Utilized_Facility_Rate__c</name>
+    </fields>
+    <fields>
+        <label><!-- 使用額度 --></label>
+        <name>Utilized_Facility__c</name>
+    </fields>
+    <layouts>
+        <layout>金融交易額度 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- 額度種類 --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

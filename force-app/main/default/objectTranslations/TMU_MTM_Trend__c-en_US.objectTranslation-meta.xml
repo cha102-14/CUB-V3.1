@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- TMU/MTM趨勢 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- TMU/MTM趨勢 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- 今年4月 --></label>
+        <name>April_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年4月 --></label>
+        <name>April_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年8月 --></label>
+        <name>August_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年12月 --></label>
+        <name>December_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年2月 --></label>
+        <name>February_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年2月 --></label>
+        <name>February_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年1月 --></label>
+        <name>January_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年1月 --></label>
+        <name>January_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年7月 --></label>
+        <name>July_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年7月 --></label>
+        <name>July_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年6月 --></label>
+        <name>June_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年6月 --></label>
+        <name>June_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年3月 --></label>
+        <name>March_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年3月 --></label>
+        <name>March_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年5月 --></label>
+        <name>May_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年5月 --></label>
+        <name>May_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年11月 --></label>
+        <name>November_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年10月 --></label>
+        <name>October_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年9月 --></label>
+        <name>September_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 年份 --></label>
+        <name>Year__c</name>
+    </fields>
+    <nameFieldLabel><!-- Name --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

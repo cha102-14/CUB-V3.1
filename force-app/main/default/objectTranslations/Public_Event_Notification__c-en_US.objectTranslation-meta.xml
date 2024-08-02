@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 公開關鍵提醒 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 公開關鍵提醒 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- Account Owner --></label>
+        <name>Account_Owner__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶 --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- 公開關鍵提醒 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 客戶名稱 --></label>
+        <name>Customer_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 日期 --></label>
+        <name>Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公開關鍵提醒外鍵 --></label>
+        <name>Public_Event_Notification_External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 類型 --></label>
+        <name>Type__c</name>
+        <picklistValues>
+            <masterLabel>TEJ重大事件</masterLabel>
+            <translation><!-- TEJ重大事件 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>負面新聞</masterLabel>
+            <translation><!-- 負面新聞 --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>公開關鍵提醒 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- 事件內容 --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 經營計劃 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 經營計劃 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- 客戶 --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- 經營計劃 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 審批狀態 --></label>
+        <name>Approval_Status__c</name>
+        <picklistValues>
+            <masterLabel>審核中</masterLabel>
+            <translation><!-- 審核中 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>尚未審核</masterLabel>
+            <translation><!-- 尚未審核 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>已審核</masterLabel>
+            <translation><!-- 已審核 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>退回</masterLabel>
+            <translation><!-- 退回 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 本行現金折台幣 (元) --></label>
+        <name>Bank_Cash_Convert_TWD__c</name>
+    </fields>
+    <fields>
+        <label><!-- 是否有本行專業投資人資格 --></label>
+        <name>Bank_Prof_Investor__c</name>
+    </fields>
+    <fields>
+        <label><!-- 需提供買家信用卡支付功能 --></label>
+        <name>Buyer_Credit_Card_Payment__c</name>
+    </fields>
+    <fields>
+        <label><!-- 本次申請案件類型 --></label>
+        <name>Case_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- 他行金交額度是否有擔保品 --></label>
+        <name>Collateral__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司人數 --></label>
+        <name>Company_Emp_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司統編 --></label>
+        <name>Company_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司全名 --></label>
+        <name>Company_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司型態 --></label>
+        <name>Company_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- 授信類型 --></label>
+        <name>Credit_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶產銷模式 --></label>
+        <name>Customer_Prod_Sales_Model__c</name>
+    </fields>
+    <fields>
+        <label><!-- 內銷收款方式 --></label>
+        <name>Domestic_Receipt__c</name>
+    </fields>
+    <fields>
+        <label><!-- 外銷比例% --></label>
+        <name>Export_Percent__c</name>
+    </fields>
+    <fields>
+        <label><!-- 外銷收款方式 --></label>
+        <name>Export_Receipt__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司近一年完整年度財報營收 (億元) --></label>
+        <name>Last_Yr_Fin_Report_Revenue__c</name>
+    </fields>
+    <fields>
+        <label><!-- 下次應辦理年審月份 --></label>
+        <name>Next_Annual_Review_Month__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司為OBU --></label>
+        <name>OBU_Company__c</name>
+    </fields>
+    <fields>
+        <label><!-- 他行現金折台幣 (元) --></label>
+        <name>Other_Bank_Cash_Convert_TWD__c</name>
+    </fields>
+    <fields>
+        <label><!-- 他行曾/已承作應收帳款融資 --></label>
+        <name>Other_Bank_Factoring__c</name>
+    </fields>
+    <fields>
+        <label><!-- 他行是否有金交額度 --></label>
+        <name>Other_Bank_PSR_Limit__c</name>
+    </fields>
+    <fields>
+        <label><!-- 是否有他行專業投資人資格 --></label>
+        <name>Other_Bank_Prof_Investor__c</name>
+    </fields>
+    <fields>
+        <label><!-- 外購付款方式 --></label>
+        <name>Outsourcing_Payment__c</name>
+    </fields>
+    <fields>
+        <label><!-- 外購比例% --></label>
+        <name>Outsourcing_Percent__c</name>
+    </fields>
+    <fields>
+        <label><!-- 收款對象眾多且有自動銷帳或多元化收款通路需求 --></label>
+        <name>Payment_Recipients_AAC_Need_DPC__c</name>
+    </fields>
+    <fields>
+        <label><!-- 有門市店員或外務營收現金存款需求(例：物流業者) --></label>
+        <name>Retail_Clerks_Deposit_Needs__c</name>
+    </fields>
+    <fields>
+        <label><!-- 本行薪轉戶 --></label>
+        <name>Salary_Account__c</name>
+    </fields>
+    <fields>
+        <label><!-- 銷售對象為自然人且非預付性質且非第三方支付公司 --></label>
+        <name>Sales_Target_is_a_Natural_Person__c</name>
+    </fields>
+    <fields>
+        <label><!-- 出貨給國內外知名廠商且天期&gt;60天 --></label>
+        <name>Ship_60Days_Known_Mfrs__c</name>
+    </fields>
+    <fields>
+        <label><!-- 出貨給本行配合供應鏈融資專案的銷貨對象 (特力屋、喬山等) --></label>
+        <name>Ship_To_Sales_Target_SC_Fin__c</name>
+    </fields>
+    <fields>
+        <label><!-- 交易幣別 --></label>
+        <name>Transaction_Currency__c</name>
+    </fields>
+    <layouts>
+        <layout>Account Plan Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- KYC 資訊 --></label>
+            <section>KYC 資訊</section>
+        </sections>
+        <sections>
+            <label><!-- TMU相關 --></label>
+            <section>TMU相關</section>
+        </sections>
+        <sections>
+            <label><!-- 企業理財相關 --></label>
+            <section>企業理財相關</section>
+        </sections>
+        <sections>
+            <label><!-- 貿融相關 --></label>
+            <section>貿融相關</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- Account Plan No. --></nameFieldLabel>
+    <quickActions>
+        <label><!-- 提交審批 --></label>
+        <name>Submitted_For_Approval_Flow</name>
+    </quickActions>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- 應收帳款 --></label>
+        <name>AR__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶開發來源 --></label>
+        <name>Account_Develop_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶識別碼 (Auto) --></label>
+        <name>Account_Key_Id_Auto__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶識別碼 --></label>
+        <name>Account_Key_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶名稱 (次要語言) --></label>
+        <name>Account_Name_Secondary_Language__c</name>
+    </fields>
+    <fields>
+        <label><!-- 帳戶擁有者與帳戶所屬單位(科別)不同 --></label>
+        <name>Account_Unit_Difference__c</name>
+    </fields>
+    <fields>
+        <label><!-- 收單 --></label>
+        <name>Acquiring__c</name>
+    </fields>
+    <fields>
+        <label><!-- 企業商齡(年) --></label>
+        <name>Age__c</name>
+    </fields>
+    <fields>
+        <label><!-- 黑名單 --></label>
+        <name>Blacklist__c</name>
+    </fields>
+    <fields>
+        <label><!-- 分行轉介單號(外部轉法) --></label>
+        <name>Branch_Referral_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 主要營業地地址 --></label>
+        <name>Business_Address_Primary__c</name>
+    </fields>
+    <fields>
+        <label><!-- 次要營業地地址 --></label>
+        <name>Business_Address_Secondary__c</name>
+    </fields>
+    <fields>
+        <label><!-- 建立業務往來 --></label>
+        <name>Business_Association_Established__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司組織型態 --></label>
+        <name>Business_Structure__c</name>
+    </fields>
+    <fields>
+        <label><!-- 幣別 --></label>
+        <name>Currency__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶資料國別 --></label>
+        <name>Customer_Data_Country__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶 ID --></label>
+        <name>Customer_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- 資料來自外部系統 --></label>
+        <name>Data_From_Non_SF__c</name>
+    </fields>
+    <fields>
+        <label><!-- 註冊日期 --></label>
+        <name>Date_Of_Establishment__c</name>
+    </fields>
+    <fields>
+        <label><!-- 存款餘額 --></label>
+        <name>Deposit_Balance__c</name>
+    </fields>
+    <fields>
+        <label><!-- 存款 --></label>
+        <name>Deposit__c</name>
+    </fields>
+    <fields>
+        <label><!-- ESG評等 --></label>
+        <name>ESG_Rating__c</name>
+    </fields>
+    <fields>
+        <label><!-- Email --></label>
+        <name>Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- 註冊到期日 --></label>
+        <name>Establishment_Expiry_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 出口實績 --></label>
+        <name>Export_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 出口押匯(含瑕疵) --></label>
+        <name>Export_Bills_Negotiation__c</name>
+    </fields>
+    <fields>
+        <label><!-- 出口D/A、D/P --></label>
+        <name>Export_DA_DP__c</name>
+    </fields>
+    <fields>
+        <label><!-- 出口OA --></label>
+        <name>Export_OA__c</name>
+    </fields>
+    <fields>
+        <label><!-- 集團總餘額 --></label>
+        <name>Facility_Balance__c</name>
+    </fields>
+    <fields>
+        <label><!-- 總集團總額度 --></label>
+        <name>Facility__c</name>
+    </fields>
+    <fields>
+        <label><!-- 企網銀 --></label>
+        <name>GMB__c</name>
+    </fields>
+    <fields>
+        <label><!-- 集團限額 --></label>
+        <name>Group_Limit__c</name>
+    </fields>
+    <fields>
+        <label><!-- 授信集團歸戶 --></label>
+        <name>Group_Loan_Data__c</name>
+    </fields>
+    <fields>
+        <label><!-- 所屬集團 --></label>
+        <name>Group__c</name>
+        <relationshipLabel><!-- Accounts --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 是否有關係 --></label>
+        <name>Has_Relationship__c</name>
+    </fields>
+    <fields>
+        <label><!-- 集團核心公司 --></label>
+        <name>Headquarter__c</name>
+        <relationshipLabel><!-- Accounts (集團核心公司) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 客戶統編類型 --></label>
+        <name>Identification_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- 進口實績 --></label>
+        <name>Import_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 進口D/A、D/P --></label>
+        <name>Import_DA_DP__c</name>
+    </fields>
+    <fields>
+        <label><!-- 進口OA --></label>
+        <name>Import_OA__c</name>
+    </fields>
+    <fields>
+        <label><!-- 主計處行業別 --></label>
+        <name>Industry__c</name>
+    </fields>
+    <fields>
+        <label><!-- 是否為行內客戶 --></label>
+        <name>Internal_Customer__c</name>
+    </fields>
+    <fields>
+        <label><!-- 無效集團 --></label>
+        <name>Invalid_Group__c</name>
+    </fields>
+    <fields>
+        <label><!-- 投資屬性 --></label>
+        <name>Investment_Attributes__c</name>
+    </fields>
+    <fields>
+        <label><!-- 是否為保證人(CIF) --></label>
+        <name>Is_Collatoral_CIF__c</name>
+    </fields>
+    <fields>
+        <label><!-- 是否為保證人 --></label>
+        <name>Is_Collatoral__c</name>
+    </fields>
+    <fields>
+        <label><!-- 是否擁有者 --></label>
+        <name>Is_Owner__c</name>
+    </fields>
+    <fields>
+        <label><!-- KYC 有效期限 --></label>
+        <name>KYC_Valid_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 開發信用狀 --></label>
+        <name>LC__c</name>
+    </fields>
+    <fields>
+        <label><!-- 最近資料來源 --></label>
+        <name>Last_Data_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- 放款餘額 --></label>
+        <name>Loan_Balance__c</name>
+    </fields>
+    <fields>
+        <label><!-- 授信戶 --></label>
+        <name>Loan__c</name>
+    </fields>
+    <fields>
+        <label><!-- 風險評等 --></label>
+        <name>MSR__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管 RM --></label>
+        <name>Managed_RM__c</name>
+        <relationshipLabel><!-- Person Accounts (經管 RM) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 經管狀態 --></label>
+        <name>Management_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- 服務機構2 --></label>
+        <name>Name_Of_Employer_2__c</name>
+    </fields>
+    <fields>
+        <label><!-- 服務機構3 --></label>
+        <name>Name_Of_Employer_3__c</name>
+    </fields>
+    <fields>
+        <label><!-- 服務機構 --></label>
+        <name>Name_Of_Employer__c</name>
+    </fields>
+    <fields>
+        <label><!-- 國籍2 --></label>
+        <name>Nationality_2__c</name>
+    </fields>
+    <fields>
+        <label><!-- 國籍3 --></label>
+        <name>Nationality_3__c</name>
+    </fields>
+    <fields>
+        <label><!-- 國籍 --></label>
+        <name>Nationality__c</name>
+    </fields>
+    <fields>
+        <label><!-- 近一年貢獻度總和 --></label>
+        <name>Net_Profit_YTD__c</name>
+    </fields>
+    <fields>
+        <label><!-- 下次應辦理年審日期 --></label>
+        <name>Next_Review_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 下次應辦理年審月份 --></label>
+        <name>Next_Review_Month__c</name>
+    </fields>
+    <fields>
+        <label><!-- 分機 --></label>
+        <name>Office_Tel_Ext__c</name>
+    </fields>
+    <fields>
+        <label><!-- 原始資料來源 --></label>
+        <name>Orig_Data_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- P2P --></label>
+        <name>P2P__c</name>
+    </fields>
+    <fields>
+        <label><!-- 專業投資人 --></label>
+        <name>PI__c</name>
+    </fields>
+    <fields>
+        <label><!-- 實收資本額 --></label>
+        <name>Paidin_Capital__c</name>
+    </fields>
+    <fields>
+        <label><!-- 薪轉戶 --></label>
+        <name>Payroll__c</name>
+    </fields>
+    <fields>
+        <label><!-- 戶籍地址 --></label>
+        <name>Permanent_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- 年齡 --></label>
+        <name>Person_Age__c</name>
+    </fields>
+    <fields>
+        <label><!-- 預佔結束日期 --></label>
+        <name>PreOccupy_End_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 預佔剩餘天數 --></label>
+        <name>PreOccupy_Remain_Days__c</name>
+    </fields>
+    <fields>
+        <label><!-- 預佔開始日期 --></label>
+        <name>PreOccupy_Start_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前一預佔者 --></label>
+        <name>Prior_PreOccupy_RM__c</name>
+        <relationshipLabel><!-- Person Accounts (前一預佔者) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- RAROC --></label>
+        <name>RAROC__c</name>
+    </fields>
+    <fields>
+        <label><!-- RORWA --></label>
+        <name>RORWA__c</name>
+    </fields>
+    <fields>
+        <label><!-- 註冊地址 --></label>
+        <name>Registered_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- 釋出日期 --></label>
+        <name>Release_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司負責人 ID --></label>
+        <name>Representative_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司負責人 --></label>
+        <name>Representative__c</name>
+    </fields>
+    <fields>
+        <label><!-- 已延長釋出 --></label>
+        <name>Request_Release__c</name>
+    </fields>
+    <fields>
+        <label><!-- 居住地地址 --></label>
+        <name>Residential_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- 開發中 RM --></label>
+        <name>Responsible_RM__c</name>
+        <relationshipLabel><!-- Person Accounts (開發中 RM) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 風險警示 --></label>
+        <name>Risk_Alert__c</name>
+    </fields>
+    <fields>
+        <label><!-- 暴險分類 --></label>
+        <name>Risk_Classification__c</name>
+    </fields>
+    <fields>
+        <label><!-- 風險國家 --></label>
+        <name>Risk_Country__c</name>
+    </fields>
+    <fields>
+        <label><!-- Salesforce轉介單號(法轉法) --></label>
+        <name>Salesforce_Referral_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 股票代號 --></label>
+        <name>Stock_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- 主計處行業別子類 --></label>
+        <name>Sub_Industry__c</name>
+    </fields>
+    <fields>
+        <label><!-- TCRI --></label>
+        <name>TCRI__c</name>
+    </fields>
+    <fields>
+        <label><!-- 商工登記地址 --></label>
+        <name>TEJ_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- TMRAC --></label>
+        <name>TMRAC__c</name>
+    </fields>
+    <fields>
+        <label><!-- TMU --></label>
+        <name>TMU__c</name>
+    </fields>
+    <fields>
+        <label><!-- 所屬科別 --></label>
+        <name>Team__c</name>
+    </fields>
+    <fields>
+        <label><!-- 資本總額 --></label>
+        <name>Total_Capital__c</name>
+    </fields>
+    <fields>
+        <label><!-- 貿融餘額 --></label>
+        <name>Trade_Finance_Balance__c</name>
+    </fields>
+    <fields>
+        <label><!-- 所屬區部 --></label>
+        <name>Unit__c</name>
+    </fields>
+    <fields>
+        <label><!-- VIP --></label>
+        <name>VIP__c</name>
+    </fields>
+    <layouts>
+        <layout>CUB Person Layout</layout>
+        <sections>
+            <label><!-- 國籍與職稱 --></label>
+            <section>國籍與職稱</section>
+        </sections>
+        <sections>
+            <label><!-- 基本資訊 --></label>
+            <section>基本資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 客戶註記 --></label>
+            <section>客戶註記</section>
+        </sections>
+        <sections>
+            <label><!-- 法務資訊 --></label>
+            <section>法務資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 產品持有 --></label>
+            <section>產品持有</section>
+        </sections>
+        <sections>
+            <label><!-- 行內指標 --></label>
+            <section>行內指標</section>
+        </sections>
+        <sections>
+            <label><!-- 資料來源資訊 --></label>
+            <section>資料來源資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 轉介資訊 --></label>
+            <section>轉介資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 通訊資訊 --></label>
+            <section>通訊資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 預佔釋出 --></label>
+            <section>預佔釋出</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <description><!-- CUB 自然人 --></description>
+        <label><!-- 自然人 --></label>
+        <name>Person</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- 個人帳戶 --></label>
+        <name>PersonAccount</name>
+    </recordTypes>
+</CustomObjectTranslation>

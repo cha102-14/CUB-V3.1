@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 環境風險事件 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 環境風險事件 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- Account Owner --></label>
+        <name>Account_Owner__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶 --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- 環境風險事件 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 公司名稱 --></label>
+        <name>Company_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 環境風險事件外鍵 --></label>
+        <name>Environment_Risk_Event_External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 法規條款 --></label>
+        <name>Legal_Provision__c</name>
+    </fields>
+    <fields>
+        <label><!-- 裁處金額 --></label>
+        <name>Penalty_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 裁處理由 --></label>
+        <name>Penalty_Reason__c</name>
+    </fields>
+    <fields>
+        <label><!-- 裁處時間 --></label>
+        <name>Penalty_Time__c</name>
+    </fields>
+    <fields>
+        <label><!-- 違反時間 --></label>
+        <name>Violation_Time__c</name>
+    </fields>
+    <layouts>
+        <layout>環境風險事件 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- 裁處書字號 --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- 進銷貨關係類型 --></label>
+        <name>SupplyChain_Type__c</name>
+        <picklistValues>
+            <masterLabel>Buyer</masterLabel>
+            <translation><!-- Buyer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Seller</masterLabel>
+            <translation><!-- Seller --></translation>
+        </picklistValues>
+    </fields>
+    <recordTypes>
+        <description><!-- Roles associated with Account-Account Relationships --></description>
+        <label><!-- Account Role --></label>
+        <name>FinServ__AccountRole</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Roles associated with Contact-Contact Relationships --></description>
+        <label><!-- Contact Role --></label>
+        <name>FinServ__ContactRole</name>
+    </recordTypes>
+</CustomObjectTranslation>

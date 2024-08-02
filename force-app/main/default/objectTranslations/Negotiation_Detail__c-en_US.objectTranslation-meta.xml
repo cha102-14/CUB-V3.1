@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 是否逐筆議價 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 是否逐筆議價 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- 客戶非公開資訊 --></label>
+        <name>Account_Private_Info__c</name>
+        <relationshipLabel><!-- 是否逐筆議價 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 客戶 --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- 是否逐筆議價 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 額度ID --></label>
+        <name>Facility_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- 逐筆議價 --></label>
+        <name>Individual_Negotiation__c</name>
+    </fields>
+    <fields>
+        <label><!-- 是否逐筆議價外鍵 --></label>
+        <name>Negotiation_Detail_External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 類型 --></label>
+        <name>Type__c</name>
+        <picklistValues>
+            <masterLabel>放款</masterLabel>
+            <translation><!-- 放款 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>貿融</masterLabel>
+            <translation><!-- 貿融 --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>是否逐筆議價 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- CreditLensID --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

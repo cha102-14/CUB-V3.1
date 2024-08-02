@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>商機已轉換</masterLabel>
+        <translation><!-- 商機已轉換 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>客戶已被開發</masterLabel>
+        <translation><!-- 客戶已被開發 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>專案到期</masterLabel>
+        <translation><!-- 專案到期 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>尚未聯繫</masterLabel>
+        <translation><!-- 尚未聯繫 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>已電訪</masterLabel>
+        <translation><!-- 已電訪 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>拒絕</masterLabel>
+        <translation><!-- 拒絕 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>有效商機</masterLabel>
+        <translation><!-- 有效商機 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>無效</masterLabel>
+        <translation><!-- 無效 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>轉介商機不承接</masterLabel>
+        <translation><!-- 轉介商機不承接 --></translation>
+    </valueTranslation>
+</StandardValueSetTranslation>

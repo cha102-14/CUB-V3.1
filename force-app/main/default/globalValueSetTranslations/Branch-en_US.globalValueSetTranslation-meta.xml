@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>三峽分行</masterLabel>
+        <translation><!-- 三峽分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>三民分行</masterLabel>
+        <translation><!-- 三民分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>三重分行</masterLabel>
+        <translation><!-- 三重分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>世貿分行</masterLabel>
+        <translation><!-- 世貿分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>中和分行</masterLabel>
+        <translation><!-- 中和分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>中壢分行</masterLabel>
+        <translation><!-- 中壢分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>中山分行</masterLabel>
+        <translation><!-- 中山分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>中崙分行</masterLabel>
+        <translation><!-- 中崙分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>中正分行</masterLabel>
+        <translation><!-- 中正分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>中港分行</masterLabel>
+        <translation><!-- 中港分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>丹鳳分行</masterLabel>
+        <translation><!-- 丹鳳分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>二重分行</masterLabel>
+        <translation><!-- 二重分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>五權分行</masterLabel>
+        <translation><!-- 五權分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>仁愛分行</masterLabel>
+        <translation><!-- 仁愛分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>信安分行</masterLabel>
+        <translation><!-- 信安分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>信義分行</masterLabel>
+        <translation><!-- 信義分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>健行分行</masterLabel>
+        <translation><!-- 健行分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>光復分行</masterLabel>
+        <translation><!-- 光復分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>內湖分行</masterLabel>
+        <translation><!-- 內湖分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>內科分行</masterLabel>
+        <translation><!-- 內科分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>八德分行</masterLabel>
+        <translation><!-- 八德分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>公益分行</masterLabel>
+        <translation><!-- 公益分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>六家分行</masterLabel>
+        <translation><!-- 六家分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>前金分行</masterLabel>
+        <translation><!-- 前金分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>前鎮分行</masterLabel>
+        <translation><!-- 前鎮分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北三重分行</masterLabel>
+        <translation><!-- 北三重分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北中壢分行</masterLabel>
+        <translation><!-- 北中壢分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北投分行</masterLabel>
+        <translation><!-- 北投分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北新分行</masterLabel>
+        <translation><!-- 北新分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北桃園分行</masterLabel>
+        <translation><!-- 北桃園分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>南京東路分行</masterLabel>
+        <translation><!-- 南京東路分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>南內湖分行</masterLabel>
+        <translation><!-- 南內湖分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>南屯分行</masterLabel>
+        <translation><!-- 南屯分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>南崁分行</masterLabel>
+        <translation><!-- 南崁分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>南投分行</masterLabel>
+        <translation><!-- 南投分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>南港分行</masterLabel>
+        <translation><!-- 南港分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>南門分行</masterLabel>
+        <translation><!-- 南門分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>南高雄分行</masterLabel>
+        <translation><!-- 南高雄分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>古亭分行</masterLabel>
+        <translation><!-- 古亭分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>台中分行</masterLabel>
+        <translation><!-- 台中分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>台北分行</masterLabel>
+        <translation><!-- 台北分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>台南分行</masterLabel>
+        <translation><!-- 台南分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>台東分行</masterLabel>
+        <translation><!-- 台東分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>同德分行</masterLabel>
+        <translation><!-- 同德分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>和平分行</masterLabel>
+        <translation><!-- 和平分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>員林分行</masterLabel>
+        <translation><!-- 員林分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>善化分行</masterLabel>
+        <translation><!-- 善化分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>嘉泰分行</masterLabel>
+        <translation><!-- 嘉泰分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>嘉義分行</masterLabel>
+        <translation><!-- 嘉義分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>四維分行</masterLabel>
+        <translation><!-- 四維分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>國際金融業務分行</masterLabel>
+        <translation><!-- 國際金融業務分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>土城分行</masterLabel>
+        <translation><!-- 土城分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>城東分行</masterLabel>
+        <translation><!-- 城東分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>埔墘分行</masterLabel>
+        <translation><!-- 埔墘分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>基隆分行</masterLabel>
+        <translation><!-- 基隆分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>士林分行</masterLabel>
+        <translation><!-- 士林分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>大同分行</masterLabel>
+        <translation><!-- 大同分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>大安分行</masterLabel>
+        <translation><!-- 大安分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>大昌分行</masterLabel>
+        <translation><!-- 大昌分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>大湳分行</masterLabel>
+        <translation><!-- 大湳分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>大甲分行</masterLabel>
+        <translation><!-- 大甲分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>大直分行</masterLabel>
+        <translation><!-- 大直分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>大里分行</masterLabel>
+        <translation><!-- 大里分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>大雅分行</masterLabel>
+        <translation><!-- 大雅分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>天母分行</masterLabel>
+        <translation><!-- 天母分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>太平分行</masterLabel>
+        <translation><!-- 太平分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>學府分行</masterLabel>
+        <translation><!-- 學府分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>安和分行</masterLabel>
+        <translation><!-- 安和分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>宜蘭分行</masterLabel>
+        <translation><!-- 宜蘭分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>寶橋分行</masterLabel>
+        <translation><!-- 寶橋分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>屏東分行</masterLabel>
+        <translation><!-- 屏東分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>岡山分行</masterLabel>
+        <translation><!-- 岡山分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>崇德分行</masterLabel>
+        <translation><!-- 崇德分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>左營分行</masterLabel>
+        <translation><!-- 左營分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>市政分行</masterLabel>
+        <translation><!-- 市政分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>建國分行</masterLabel>
+        <translation><!-- 建國分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>建成分行</masterLabel>
+        <translation><!-- 建成分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>彰化分行</masterLabel>
+        <translation><!-- 彰化分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>彰美分行</masterLabel>
+        <translation><!-- 彰美分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>後埔分行</masterLabel>
+        <translation><!-- 後埔分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>復興分行</masterLabel>
+        <translation><!-- 復興分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>忠孝分行</masterLabel>
+        <translation><!-- 忠孝分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>忠誠分行</masterLabel>
+        <translation><!-- 忠誠分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>思源分行</masterLabel>
+        <translation><!-- 思源分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>慶城分行</masterLabel>
+        <translation><!-- 慶城分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>成功分行</masterLabel>
+        <translation><!-- 成功分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>敦化分行</masterLabel>
+        <translation><!-- 敦化分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>敦南分行</masterLabel>
+        <translation><!-- 敦南分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>文山分行</masterLabel>
+        <translation><!-- 文山分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>文德分行</masterLabel>
+        <translation><!-- 文德分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>文心分行</masterLabel>
+        <translation><!-- 文心分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>文昌分行</masterLabel>
+        <translation><!-- 文昌分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>斗六分行</masterLabel>
+        <translation><!-- 斗六分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>新店分行</masterLabel>
+        <translation><!-- 新店分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>新板分行</masterLabel>
+        <translation><!-- 新板分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>新樹分行</masterLabel>
+        <translation><!-- 新樹分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>新泰分行</masterLabel>
+        <translation><!-- 新泰分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>新湖分行</masterLabel>
+        <translation><!-- 新湖分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>新營分行</masterLabel>
+        <translation><!-- 新營分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>新生分行</masterLabel>
+        <translation><!-- 新生分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>新竹分行</masterLabel>
+        <translation><!-- 新竹分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>新興分行</masterLabel>
+        <translation><!-- 新興分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>新莊分行</masterLabel>
+        <translation><!-- 新莊分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>昌平分行</masterLabel>
+        <translation><!-- 昌平分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>明誠分行</masterLabel>
+        <translation><!-- 明誠分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>景美分行</masterLabel>
+        <translation><!-- 景美分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>東台中分行</masterLabel>
+        <translation><!-- 東台中分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>東台南分行</masterLabel>
+        <translation><!-- 東台南分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>東林口分行</masterLabel>
+        <translation><!-- 東林口分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>東湖分行</masterLabel>
+        <translation><!-- 東湖分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>東門分行</masterLabel>
+        <translation><!-- 東門分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>東高雄分行</masterLabel>
+        <translation><!-- 東高雄分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>松勤分行</masterLabel>
+        <translation><!-- 松勤分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>松山分行</masterLabel>
+        <translation><!-- 松山分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>松江分行</masterLabel>
+        <translation><!-- 松江分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>板東分行</masterLabel>
+        <translation><!-- 板東分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>板橋分行</masterLabel>
+        <translation><!-- 板橋分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>林口分行</masterLabel>
+        <translation><!-- 林口分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>桃園分行</masterLabel>
+        <translation><!-- 桃園分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>桃興分行</masterLabel>
+        <translation><!-- 桃興分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>樹林分行</masterLabel>
+        <translation><!-- 樹林分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>正義分行</masterLabel>
+        <translation><!-- 正義分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>民權分行</masterLabel>
+        <translation><!-- 民權分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>水湳分行</masterLabel>
+        <translation><!-- 水湳分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>永和分行</masterLabel>
+        <translation><!-- 永和分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>永平分行</masterLabel>
+        <translation><!-- 永平分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>永康分行</masterLabel>
+        <translation><!-- 永康分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>永春分行</masterLabel>
+        <translation><!-- 永春分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>永貞分行</masterLabel>
+        <translation><!-- 永貞分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>汐止分行</masterLabel>
+        <translation><!-- 汐止分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>沙鹿分行</masterLabel>
+        <translation><!-- 沙鹿分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>淡水分行</masterLabel>
+        <translation><!-- 淡水分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>清水分行</masterLabel>
+        <translation><!-- 清水分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>潭子分行</masterLabel>
+        <translation><!-- 潭子分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>瑞湖分行</masterLabel>
+        <translation><!-- 瑞湖分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>石牌分行</masterLabel>
+        <translation><!-- 石牌分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>福和分行</masterLabel>
+        <translation><!-- 福和分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>竹北分行</masterLabel>
+        <translation><!-- 竹北分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>竹城分行</masterLabel>
+        <translation><!-- 竹城分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>竹科分行</masterLabel>
+        <translation><!-- 竹科分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>篤行分行</masterLabel>
+        <translation><!-- 篤行分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>臨安分行</masterLabel>
+        <translation><!-- 臨安分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>臨沂分行</masterLabel>
+        <translation><!-- 臨沂分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>花蓮分行</masterLabel>
+        <translation><!-- 花蓮分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>苓雅分行</masterLabel>
+        <translation><!-- 苓雅分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>苗栗分行</masterLabel>
+        <translation><!-- 苗栗分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>華山分行</masterLabel>
+        <translation><!-- 華山分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>華江分行</masterLabel>
+        <translation><!-- 華江分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>萬華分行</masterLabel>
+        <translation><!-- 萬華分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>蘆洲分行</masterLabel>
+        <translation><!-- 蘆洲分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>蘭雅分行</masterLabel>
+        <translation><!-- 蘭雅分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>西台中分行</masterLabel>
+        <translation><!-- 西台中分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>西屯分行</masterLabel>
+        <translation><!-- 西屯分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>西松分行</masterLabel>
+        <translation><!-- 西松分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>西門分行</masterLabel>
+        <translation><!-- 西門分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>豐原分行</masterLabel>
+        <translation><!-- 豐原分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>逢甲分行</masterLabel>
+        <translation><!-- 逢甲分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>連城分行</masterLabel>
+        <translation><!-- 連城分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>重新分行</masterLabel>
+        <translation><!-- 重新分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>雙和分行</masterLabel>
+        <translation><!-- 雙和分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>青埔分行</masterLabel>
+        <translation><!-- 青埔分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>頭份分行</masterLabel>
+        <translation><!-- 頭份分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>館前分行</masterLabel>
+        <translation><!-- 館前分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>高雄分行</masterLabel>
+        <translation><!-- 高雄分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>鳳山分行</masterLabel>
+        <translation><!-- 鳳山分行 --></translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

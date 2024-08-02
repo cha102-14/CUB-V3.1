@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- Event Notification --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- Event Notification --></value>
+    </caseValues>
+    <fields>
+        <label><!-- Customer --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- Event Notification --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Customer Name --></label>
+        <name>Customer_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date --></label>
+        <name>Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Event Notification External Key --></label>
+        <name>Event_Notification_External_Key__c</name>
+    </fields>
+    <fields>
+        <label><!-- Private Customer Information --></label>
+        <name>Private_Account_Info__c</name>
+        <relationshipLabel><!-- Event Notification --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Remark --></label>
+        <name>Remark__c</name>
+    </fields>
+    <layouts>
+        <layout>Event Notification Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- Event --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

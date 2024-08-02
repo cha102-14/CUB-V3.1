@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>1. 貿融潛力</masterLabel>
+        <translation><!-- 1. 貿融潛力 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>2. 出口後貿融潛力</masterLabel>
+        <translation><!-- 2. 出口後貿融潛力 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>3. 金流潛力</masterLabel>
+        <translation><!-- 3. 金流潛力 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>4. TMU潛力</masterLabel>
+        <translation><!-- 4. TMU潛力 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>5. 運營帳戶潛力</masterLabel>
+        <translation><!-- 5. 運營帳戶潛力 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>6. 薪轉潛力</masterLabel>
+        <translation><!-- 6. 薪轉潛力 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>7. 企網銀潛力</masterLabel>
+        <translation><!-- 7. 企網銀潛力 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>8. 其他潛力</masterLabel>
+        <translation><!-- 8. 其他潛力 --></translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

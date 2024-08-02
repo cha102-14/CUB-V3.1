@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 名單上傳 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 名單上傳 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- 開戶狀態 --></label>
+        <name>Account_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- 地址 --></label>
+        <name>Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- 指派Team --></label>
+        <name>Assigned_Team__c</name>
+    </fields>
+    <fields>
+        <label><!-- 債券潛力 --></label>
+        <name>Bond_Potential__c</name>
+    </fields>
+    <fields>
+        <label><!-- 區部帳務號碼 --></label>
+        <name>Bsn_Cbsm_P__c</name>
+    </fields>
+    <fields>
+        <label><!-- 行銷活動編號 --></label>
+        <name>Campaign_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司 --></label>
+        <name>Company__c</name>
+    </fields>
+    <fields>
+        <label><!-- 交易對手統編 --></label>
+        <name>Competitor_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 交易對手公司名稱 --></label>
+        <name>Competitor_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 聯絡人姓名 --></label>
+        <name>Contact__c</name>
+    </fields>
+    <fields>
+        <label><!-- 信用卡VIP --></label>
+        <name>Credit_Card_VIP__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶已被開發 --></label>
+        <name>Customer_Developing__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶ID --></label>
+        <name>Customer_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶統編隱碼 --></label>
+        <name>Customer_Mask_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客群 --></label>
+        <name>Customer_Segment__c</name>
+    </fields>
+    <fields>
+        <label><!-- 資料擷取月 --></label>
+        <name>Data_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 近一年平均存款 --></label>
+        <name>Deposit_Avg__c</name>
+    </fields>
+    <fields>
+        <label><!-- 近一年外幣帳戶平均存款(折合台幣) --></label>
+        <name>Deposit_Foreign__c</name>
+    </fields>
+    <fields>
+        <label><!-- 近一年台幣帳戶平均存款 --></label>
+        <name>Deposit_NTD__c</name>
+    </fields>
+    <fields>
+        <label><!-- 派發人員所屬國家 --></label>
+        <name>Dist_User_Country__c</name>
+    </fields>
+    <fields>
+        <label><!-- 派發人員所屬科別 --></label>
+        <name>Dist_User_Department__c</name>
+    </fields>
+    <fields>
+        <label><!-- 派發人員所屬區部 --></label>
+        <name>Dist_User_Division__c</name>
+    </fields>
+    <fields>
+        <label><!-- 派發人員員編 --></label>
+        <name>Dist_User_Emp_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 派發人員所屬客群 --></label>
+        <name>Dist_User_Segment__c</name>
+    </fields>
+    <fields>
+        <label><!-- 派發人員 --></label>
+        <name>Dist_User__c</name>
+        <relationshipLabel><!-- 名單上傳 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 派發大地理區 --></label>
+        <name>Distribute_Bsn_District__c</name>
+    </fields>
+    <fields>
+        <label><!-- 派發區部 --></label>
+        <name>Distribute_Division__c</name>
+    </fields>
+    <fields>
+        <label><!-- 派發筆數 --></label>
+        <name>Distribute_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 派發科別 --></label>
+        <name>Distribute_Team_Cbsm__c</name>
+    </fields>
+    <fields>
+        <label><!-- 派發註記 --></label>
+        <name>Distribution_Remark__c</name>
+    </fields>
+    <fields>
+        <label><!-- 最大存款行 --></label>
+        <name>Dp_M_Branch_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 最大存款行區部 --></label>
+        <name>Dp_M_Bsn__c</name>
+    </fields>
+    <fields>
+        <label><!-- 電子郵件 --></label>
+        <name>Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司設立日 --></label>
+        <name>Establish_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管理專所屬分行 --></label>
+        <name>Fm_Branch_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管理專員編 --></label>
+        <name>Fm_Emp_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管理專姓名 --></label>
+        <name>Fm_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 理專經管狀態 --></label>
+        <name>Fm_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- 體質良好 --></label>
+        <name>Good_Physique__c</name>
+    </fields>
+    <fields>
+        <label><!-- 高避險潛力 --></label>
+        <name>Hedging_Potential__c</name>
+    </fields>
+    <fields>
+        <label><!-- 高繳稅額 --></label>
+        <name>High_Tax_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 失效原因 --></label>
+        <name>Invalid_Reason__c</name>
+        <picklistValues>
+            <masterLabel>名單到期</masterLabel>
+            <translation><!-- 名單到期 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>派發失敗</masterLabel>
+            <translation><!-- 派發失敗 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>重分配後剩餘</masterLabel>
+            <translation><!-- 重分配後剩餘 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>重複排除</masterLabel>
+            <translation><!-- 重複排除 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 高投資理財潛力 --></label>
+        <name>Investment_Potential__c</name>
+    </fields>
+    <fields>
+        <label><!-- 重點產業 --></label>
+        <name>Key_Industry__c</name>
+    </fields>
+    <fields>
+        <label><!-- 名單實際已到期 --></label>
+        <name>Lead_Expired__c</name>
+    </fields>
+    <fields>
+        <label><!-- 名單失效 --></label>
+        <name>Lead_Invalid__c</name>
+    </fields>
+    <fields>
+        <label><!-- 持有高價住宅 --></label>
+        <name>Luxury_Residence__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管理專所屬區部 --></label>
+        <name>Manager_Division__c</name>
+    </fields>
+    <fields>
+        <label><!-- 鄰近分行 --></label>
+        <name>Nearest_Branch_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 鄰近分行區部 --></label>
+        <name>Nearest_Bsn__c</name>
+    </fields>
+    <fields>
+        <label><!-- 備註1 --></label>
+        <name>Note1__c</name>
+    </fields>
+    <fields>
+        <label><!-- 備註2 --></label>
+        <name>Note2__c</name>
+    </fields>
+    <fields>
+        <label><!-- 備註3 --></label>
+        <name>Note3__c</name>
+    </fields>
+    <fields>
+        <label><!-- 備註4 --></label>
+        <name>Note4__c</name>
+    </fields>
+    <fields>
+        <label><!-- 備註5 --></label>
+        <name>Note5__c</name>
+    </fields>
+    <fields>
+        <label><!-- 其他 --></label>
+        <name>Other__c</name>
+    </fields>
+    <fields>
+        <label><!-- PI專投 --></label>
+        <name>PI_Specialist__c</name>
+    </fields>
+    <fields>
+        <label><!-- 負責人姓名 --></label>
+        <name>Person_In_Charge__c</name>
+    </fields>
+    <fields>
+        <label><!-- 電話 --></label>
+        <name>Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- 潛力類別 --></label>
+        <name>Potential_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- 已重分配 --></label>
+        <name>Reallocated__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介人職稱 --></label>
+        <name>Referral_Title__c</name>
+    </fields>
+    <fields>
+        <label><!-- 註冊國別 --></label>
+        <name>Registration_Country__c</name>
+    </fields>
+    <fields>
+        <label><!-- 企業關聯人姓名 --></label>
+        <name>Rel_Customer_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 企業關聯人職稱 --></label>
+        <name>Rel_Desc__c</name>
+    </fields>
+    <fields>
+        <label><!-- 行銷活動名稱 --></label>
+        <name>Related_Campaign__c</name>
+        <relationshipLabel><!-- 名單上傳 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 風險關注 --></label>
+        <name>Risk_Concern__c</name>
+    </fields>
+    <fields>
+        <label><!-- 薪轉潛力 --></label>
+        <name>Salary_Transfer_Potential__c</name>
+    </fields>
+    <fields>
+        <label><!-- 同一大地理區 --></label>
+        <name>Same_Area__c</name>
+    </fields>
+    <fields>
+        <label><!-- 特殊名單排序 --></label>
+        <name>Special_List_Order__c</name>
+    </fields>
+    <fields>
+        <label><!-- 產業小類 --></label>
+        <name>Sub_Industry__c</name>
+    </fields>
+    <fields>
+        <label><!-- 建議派發分行 --></label>
+        <name>Suggest_Disp_Branch__c</name>
+    </fields>
+    <fields>
+        <label><!-- 目標產業 --></label>
+        <name>Target_Industry__c</name>
+    </fields>
+    <fields>
+        <label><!-- 稅編號碼 --></label>
+        <name>Tax_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 層級 --></label>
+        <name>Tier__c</name>
+    </fields>
+    <fields>
+        <label><!-- 資本額 --></label>
+        <name>Total_Capital_Amt__c</name>
+    </fields>
+    <fields>
+        <label><!-- 出口實績(去年度) --></label>
+        <name>Total_Export_Value_LY__c</name>
+    </fields>
+    <fields>
+        <label><!-- 出口實績(資料擷取至某月) --></label>
+        <name>Total_Export_Value__c</name>
+    </fields>
+    <fields>
+        <label><!-- 進口實績(去年度) --></label>
+        <name>Total_Import_Value_LY__c</name>
+    </fields>
+    <fields>
+        <label><!-- 進口實績(資料擷取至某月) --></label>
+        <name>Total_Import_Value__c</name>
+    </fields>
+    <fields>
+        <label><!-- 貿融潛力 --></label>
+        <name>Trade_Potential__c</name>
+    </fields>
+    <fields>
+        <label><!-- 名單類別 --></label>
+        <name>Type__c</name>
+    </fields>
+    <layouts>
+        <layout>Domestic Staging Lead Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- 其他資訊 --></label>
+            <section>其他資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 派發資訊 --></label>
+            <section>派發資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 狀態註記 --></label>
+            <section>狀態註記</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Oversea Staging Lead Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- 派發資訊 --></label>
+            <section>派發資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 狀態註記 --></label>
+            <section>狀態註記</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- Staging Lead No --></nameFieldLabel>
+    <recordTypes>
+        <label><!-- 國內名單上傳 --></label>
+        <name>Domestic_Staging_Lead</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Oversea Staging Lead --></label>
+        <name>Oversea_Staging_Lead</name>
+    </recordTypes>
+    <startsWith><!-- Consonant --></startsWith>
+    <validationRules>
+        <errorMessage><!-- 僅當行銷活動狀態處於「尚未審核」階段，才可上傳/編輯相關名單 --></errorMessage>
+        <name>Restrict_StagingLead_Upload</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Domestic_StagingLead_Template --></label>
+        <name>Domestic_StagingLead_Template</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Oversea_StagingLead_Template --></label>
+        <name>Oversea_StagingLead_Template</name>
+    </webLinks>
+</CustomObjectTranslation>

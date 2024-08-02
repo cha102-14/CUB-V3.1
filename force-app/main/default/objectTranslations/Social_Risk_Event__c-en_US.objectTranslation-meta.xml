@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 社會風險事件 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 社會風險事件 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- Account Owner --></label>
+        <name>Account_Owner__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶 --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- 社會風險事件 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 公告日期 --></label>
+        <name>Announcement_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司名稱 --></label>
+        <name>Company_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 處分日期 --></label>
+        <name>Disposition_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 法規條款 --></label>
+        <name>Legal_Provision__c</name>
+    </fields>
+    <fields>
+        <label><!-- 裁處理由 --></label>
+        <name>Penalty_Reason__c</name>
+    </fields>
+    <fields>
+        <label><!-- 負責人 --></label>
+        <name>Person_In_Charge__c</name>
+    </fields>
+    <fields>
+        <label><!-- 社會風險事件外鍵 --></label>
+        <name>Social_Risk_Event_External_Id__c</name>
+    </fields>
+    <layouts>
+        <layout>社會風險事件 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- 處分字號 --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

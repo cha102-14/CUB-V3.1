@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 檢核結果產品 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 檢核結果產品 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- 經營計劃 --></label>
+        <name>Account_Plan__c</name>
+        <relationshipLabel><!-- 檢核結果產品 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 預估時程 --></label>
+        <name>Estimated_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 已持有產品 --></label>
+        <name>Is_Already_Owned__c</name>
+    </fields>
+    <fields>
+        <label><!-- 本次申請產品 --></label>
+        <name>Is_Applied_This_Time__c</name>
+    </fields>
+    <fields>
+        <label><!-- 自動建議 --></label>
+        <name>Is_Auto_Recommended__c</name>
+    </fields>
+    <fields>
+        <label><!-- 科主管建議追蹤 --></label>
+        <name>Is_Follow_Up_Suggested__c</name>
+    </fields>
+    <fields>
+        <label><!-- 建議產品 --></label>
+        <name>Is_Suggested_Product__c</name>
+    </fields>
+    <fields>
+        <label><!-- 建議產品未新申請原因 --></label>
+        <name>Reason_For_Not_Applying__c</name>
+    </fields>
+    <layouts>
+        <layout>檢核結果產品 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- 結果產品 --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+    <validationRules>
+        <errorMessage><!-- 請選擇未來的日期 --></errorMessage>
+        <name>Cannot_Choose_Earlier_Date</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- 無法打勾取消自動建議的產品 --></errorMessage>
+        <name>Cannot_Uncheck_Auto_Recommended_Products</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- 請填寫預計時程 --></errorMessage>
+        <name>Check_Follow_Up_Due_Date</name>
+    </validationRules>
+</CustomObjectTranslation>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 公司治理風險事件 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 公司治理風險事件 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- Account Owner --></label>
+        <name>Account_Owner__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶 --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- 公司治理風險事件 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 事件內容 --></label>
+        <name>Event_Content__c</name>
+    </fields>
+    <fields>
+        <label><!-- 事件日期 --></label>
+        <name>Event_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 事件強度 --></label>
+        <name>Event_Intensity__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司治理風險事件外鍵 --></label>
+        <name>Governance_Risk_Event_External_Id__c</name>
+    </fields>
+    <layouts>
+        <layout>公司治理風險事件 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- 事件類別 --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

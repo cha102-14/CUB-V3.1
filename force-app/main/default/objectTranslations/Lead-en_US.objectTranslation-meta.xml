@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- 承接日期時間(分行轉介) --></label>
+        <name>Acceptance_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 開戶狀態 --></label>
+        <name>Account_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- 指派Team --></label>
+        <name>Assigned_Team__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介人分行代碼 --></label>
+        <name>BRANCHCODE__c</name>
+    </fields>
+    <fields>
+        <label><!-- 債券潛力 --></label>
+        <name>Bond_Potential__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介單號(分行轉介) --></label>
+        <name>Branch_Referral_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 區部帳務號碼 --></label>
+        <name>Bsn_Cbsm_P__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司地址 --></label>
+        <name>Business_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客群 --></label>
+        <name>Business_Group__c</name>
+    </fields>
+    <fields>
+        <label><!-- 名單開發提醒日 --></label>
+        <name>Campaign_Alert_Day__c</name>
+    </fields>
+    <fields>
+        <label><!-- 行銷活動編號 --></label>
+        <name>Campaign_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 行銷成果 --></label>
+        <name>Campaign_Result__c</name>
+    </fields>
+    <fields>
+        <label><!-- 結案日期時間(分行轉介) --></label>
+        <name>Close_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 交易對手統編 --></label>
+        <name>Competitor_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 交易對手公司名稱 --></label>
+        <name>Competitor_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 信用卡VIP --></label>
+        <name>Credit_Card_VIP__c</name>
+    </fields>
+    <fields>
+        <label><!-- 商機所屬國別 --></label>
+        <name>Customer_Data_Country__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶ID --></label>
+        <name>Customer_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶統編隱碼 --></label>
+        <name>Customer_Mask_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 資料擷取月 --></label>
+        <name>Data_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 近一年平均存款 --></label>
+        <name>Deposit_Avg__c</name>
+    </fields>
+    <fields>
+        <label><!-- 近一年外幣帳戶平均存款(折合台幣) --></label>
+        <name>Deposit_Foreign__c</name>
+    </fields>
+    <fields>
+        <label><!-- 近一年台幣帳戶平均存款 --></label>
+        <name>Deposit_NTD__c</name>
+    </fields>
+    <fields>
+        <label><!-- 說明欄 --></label>
+        <name>Develop_Remark__c</name>
+    </fields>
+    <fields>
+        <label><!-- 開發期限 --></label>
+        <name>Development_Deadline__c</name>
+    </fields>
+    <fields>
+        <label><!-- 派發大地理區 --></label>
+        <name>Distribute_Bsn_District__c</name>
+    </fields>
+    <fields>
+        <label><!-- 派發區部 --></label>
+        <name>Distribute_Division__c</name>
+    </fields>
+    <fields>
+        <label><!-- 派發科別 --></label>
+        <name>Distribute_Team_Cbsm__c</name>
+    </fields>
+    <fields>
+        <label><!-- 派發註記 --></label>
+        <name>Distribution_Remark__c</name>
+    </fields>
+    <fields>
+        <label><!-- 派發狀態 --></label>
+        <name>Distribution_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- 最大存款行 --></label>
+        <name>Dp_M_Branch_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 最大存款行區部 --></label>
+        <name>Dp_M_Bsn__c</name>
+    </fields>
+    <fields>
+        <help><!-- 當此欄位被勾起時，表示此商機可能有其他人正進行開發 --></help>
+        <label><!-- 有重複商機存在 --></label>
+        <name>Duplicate_Lead_Exists__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司設立日 --></label>
+        <name>Establish_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管理專所屬分行 --></label>
+        <name>Fm_Branch_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管理專員編 --></label>
+        <name>Fm_Emp_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管理專姓名 --></label>
+        <name>Fm_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 理專經管狀態 --></label>
+        <name>Fm_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- 體質良好 --></label>
+        <name>Good_Physique__c</name>
+    </fields>
+    <fields>
+        <label><!-- 高避險潛力 --></label>
+        <name>Hedging_Potential__c</name>
+    </fields>
+    <fields>
+        <label><!-- 高繳稅額 --></label>
+        <name>High_Tax_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶統編類型 --></label>
+        <name>Identification_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介單建立日期時間(分行轉介) --></label>
+        <name>Introduce_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介單到期日(法金轉介) --></label>
+        <name>Introduce_Invalid_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 高投資理財潛力 --></label>
+        <name>Investment_Potential__c</name>
+    </fields>
+    <fields>
+        <label><!-- 與客戶KYC關係類別 --></label>
+        <name>KYC_Customer_Relation__c</name>
+        <picklistValues>
+            <masterLabel>單位授信戶</masterLabel>
+            <translation><!-- 單位授信戶 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>單位授信戶之關係戶</masterLabel>
+            <translation><!-- 單位授信戶之關係戶 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>拜訪中客戶</masterLabel>
+            <translation><!-- 拜訪中客戶 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 重點產業 --></label>
+        <name>Key_Industry__c</name>
+    </fields>
+    <fields>
+        <label><!-- 專案到期 --></label>
+        <name>Lead_Expired__c</name>
+    </fields>
+    <fields>
+        <label><!-- 商機備註 --></label>
+        <name>Lead_Notes__c</name>
+    </fields>
+    <fields>
+        <label><!-- 商機擁有者員編 --></label>
+        <name>Lead_Owner_Employee_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 開發狀態編號 --></label>
+        <name>Lead_Status_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 商機所屬科別 --></label>
+        <name>Lead_Team__c</name>
+    </fields>
+    <fields>
+        <label><!-- 持有高價住宅 --></label>
+        <name>Luxury_Residence__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管理專所屬區部 --></label>
+        <name>Manager_Division__c</name>
+    </fields>
+    <fields>
+        <label><!-- 鄰近分行 --></label>
+        <name>Nearest_Branch_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 鄰近分行區部 --></label>
+        <name>Nearest_Bsn__c</name>
+    </fields>
+    <fields>
+        <label><!-- 備註1 --></label>
+        <name>Note1__c</name>
+    </fields>
+    <fields>
+        <label><!-- 備註2 --></label>
+        <name>Note2__c</name>
+    </fields>
+    <fields>
+        <label><!-- 備註3 --></label>
+        <name>Note3__c</name>
+    </fields>
+    <fields>
+        <label><!-- 備註4 --></label>
+        <name>Note4__c</name>
+    </fields>
+    <fields>
+        <label><!-- 備註5 --></label>
+        <name>Note5__c</name>
+    </fields>
+    <fields>
+        <label><!-- 其他原因 --></label>
+        <name>Other_Reason__c</name>
+    </fields>
+    <fields>
+        <label><!-- 其他 --></label>
+        <name>Other__c</name>
+    </fields>
+    <fields>
+        <label><!-- 商機擁有者單位異動 --></label>
+        <name>Owner_Unit_Change__c</name>
+    </fields>
+    <fields>
+        <label><!-- PI專投 --></label>
+        <name>PI_Specialist__c</name>
+    </fields>
+    <fields>
+        <label><!-- 說明歷程 --></label>
+        <name>PROCESSDESC__c</name>
+    </fields>
+    <fields>
+        <label><!-- 戶籍地址 --></label>
+        <name>Permanent_Address__c</name>
+    </fields>
+    <fields>
+        <label><!-- 負責人姓名 --></label>
+        <name>Person_In_Charge__c</name>
+    </fields>
+    <fields>
+        <label><!-- 潛力類別 --></label>
+        <name>Potential_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前一商機狀態 --></label>
+        <name>Previous_Lead_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- 商品代碼 --></label>
+        <name>Product_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 商品鎖定月數 --></label>
+        <name>Product_Lock_Period__c</name>
+    </fields>
+    <fields>
+        <label><!-- 承接人 --></label>
+        <name>Receive_RM__c</name>
+        <relationshipLabel><!-- Leads (承接人) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 承接單位 --></label>
+        <name>Receive_Unit_Picklist__c</name>
+    </fields>
+    <fields>
+        <label><!-- 承接人員編 --></label>
+        <name>Receiver_Id_Formula__c</name>
+    </fields>
+    <fields>
+        <label><!-- 承接人角色名稱 --></label>
+        <name>Receiver_Role_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 承接人角色 --></label>
+        <name>Receiver_Role__c</name>
+    </fields>
+    <fields>
+        <label><!-- Salesforce轉介單號 --></label>
+        <name>Referral_Case_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介日期時間 --></label>
+        <name>Referral_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介人員編(法金轉介) --></label>
+        <name>Referral_Id_Formula__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介商品名稱 --></label>
+        <name>Referral_Item__c</name>
+        <picklistValues>
+            <masterLabel>pd42: 複雜型法人授信</masterLabel>
+            <translation><!-- pd42: 複雜型法人授信 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 轉介單狀態 --></label>
+        <name>Referral_Record_Status__c</name>
+    </fields>
+    <fields>
+        <label><!-- 不承接原因 --></label>
+        <name>Referral_Rejected_Reason__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介結果 --></label>
+        <name>Referral_Result__c</name>
+    </fields>
+    <fields>
+        <label><!-- 商機轉介狀態 --></label>
+        <name>Referral_Status__c</name>
+        <picklistValues>
+            <masterLabel>不承接此轉介</masterLabel>
+            <translation><!-- 不承接此轉介 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>審核中</masterLabel>
+            <translation><!-- 審核中 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>審核退回</masterLabel>
+            <translation><!-- 審核退回 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>已指派承接RM</masterLabel>
+            <translation><!-- 已指派承接RM --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>承接單位派發中</masterLabel>
+            <translation><!-- 承接單位派發中 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>轉介商機建立</masterLabel>
+            <translation><!-- 轉介商機建立 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>轉介關係成立</masterLabel>
+            <translation><!-- 轉介關係成立 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 轉介建議 --></label>
+        <name>Referral_Suggestion__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介系統唯一序號 --></label>
+        <name>Referral_System_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介人職稱 --></label>
+        <name>Referral_Title__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介檢核原因 --></label>
+        <name>Referral_Validate_Reason__c</name>
+        <picklistValues>
+            <masterLabel>TBD</masterLabel>
+            <translation><!-- TBD --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 轉介人員編(分行轉介) --></label>
+        <name>Referrer_Employee_No_Text__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介人(法金轉介) --></label>
+        <name>Referrer_Name__c</name>
+        <relationshipLabel><!-- Leads (轉介人(法金轉介)) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 轉介人角色名稱 --></label>
+        <name>Referrer_Role_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介人角色 --></label>
+        <name>Referrer_Role__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介單位 --></label>
+        <name>Referrer_Unit__c</name>
+    </fields>
+    <fields>
+        <label><!-- 註冊國別 --></label>
+        <name>Registration_Country__c</name>
+    </fields>
+    <fields>
+        <label><!-- 拒絕原因編號 --></label>
+        <name>Rejected_Reason_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 拒絕原因 --></label>
+        <name>Rejected_Reason__c</name>
+        <picklistValues>
+            <masterLabel>利率因素暫無申辦意願</masterLabel>
+            <translation><!-- 利率因素暫無申辦意願 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>已有主力往來銀行暫無申辦意願</masterLabel>
+            <translation><!-- 已有主力往來銀行暫無申辦意願 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>暫無需求</masterLabel>
+            <translation><!-- 暫無需求 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>額度因素暫無申辦意願</masterLabel>
+            <translation><!-- 額度因素暫無申辦意願 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 企業關聯人姓名 --></label>
+        <name>Rel_Customer_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 企業關聯人職稱 --></label>
+        <name>Rel_Desc__c</name>
+    </fields>
+    <fields>
+        <label><!-- 相關帳戶 --></label>
+        <name>Related_Account__c</name>
+        <relationshipLabel><!-- Leads (相關帳戶) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 行銷活動名稱 --></label>
+        <name>Related_Campaign__c</name>
+        <relationshipLabel><!-- Leads --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 相關集團 --></label>
+        <name>Related_Group__c</name>
+        <relationshipLabel><!-- Leads (相關集團) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 風險關注 --></label>
+        <name>Risk_Concern__c</name>
+    </fields>
+    <fields>
+        <label><!-- 承接人分行區部代碼 --></label>
+        <name>SALESBRAREACODE__c</name>
+    </fields>
+    <fields>
+        <label><!-- 承接人分行代碼 --></label>
+        <name>SALESBRCODE__c</name>
+    </fields>
+    <fields>
+        <label><!-- 薪轉潛力 --></label>
+        <name>Salary_Transfer_Potential__c</name>
+    </fields>
+    <fields>
+        <label><!-- 同一大地理區 --></label>
+        <name>Same_Area__c</name>
+    </fields>
+    <fields>
+        <label><!-- 名單Id --></label>
+        <name>Staging_Lead_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 產業小類 --></label>
+        <name>Sub_Industry__c</name>
+    </fields>
+    <fields>
+        <label><!-- 建議派發分行 --></label>
+        <name>Suggest_Disp_Branch__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉介人分行區部代碼 --></label>
+        <name>TELLERBRAREACODE__c</name>
+    </fields>
+    <fields>
+        <label><!-- TMRAC --></label>
+        <name>TMRAC__c</name>
+    </fields>
+    <fields>
+        <label><!-- 目標產業 --></label>
+        <name>Target_Industry__c</name>
+    </fields>
+    <fields>
+        <label><!-- 稅編號碼 --></label>
+        <name>Tax_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 層級 --></label>
+        <name>Tier__c</name>
+    </fields>
+    <fields>
+        <label><!-- 資本額 --></label>
+        <name>Total_Capital_Amt__c</name>
+    </fields>
+    <fields>
+        <label><!-- 出口實績(去年度) --></label>
+        <name>Total_Export_Value_Lastyear__c</name>
+    </fields>
+    <fields>
+        <label><!-- 出口實績(資料擷取至某月) --></label>
+        <name>Total_Export_Value__c</name>
+    </fields>
+    <fields>
+        <label><!-- 進口實績(去年度) --></label>
+        <name>Total_Import_Value_Lastyear__c</name>
+    </fields>
+    <fields>
+        <label><!-- 進口實績(資料擷取至某月) --></label>
+        <name>Total_Import_Value__c</name>
+    </fields>
+    <fields>
+        <label><!-- 貿融潛力 --></label>
+        <name>Trade_Potential__c</name>
+    </fields>
+    <fields>
+        <label><!-- 無效原因編號 --></label>
+        <name>Unqualified_Reason_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 無效原因說明 --></label>
+        <name>Unqualified_Reason_Remarks__c</name>
+    </fields>
+    <fields>
+        <label><!-- 無效原因 --></label>
+        <name>Unqualified_Reason__c</name>
+        <picklistValues>
+            <masterLabel>先前具客訴紀錄</masterLabel>
+            <translation><!-- 先前具客訴紀錄 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>其他</masterLabel>
+            <translation><!-- 其他 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>年營收規模小於5,000萬</masterLabel>
+            <translation><!-- 年營收規模小於5,000萬 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>曾有案件未過審記錄</masterLabel>
+            <translation><!-- 曾有案件未過審記錄 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>無法聯繫上客戶</masterLabel>
+            <translation><!-- 無法聯繫上客戶 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>財報或營收結構不佳</masterLabel>
+            <translation><!-- 財報或營收結構不佳 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 初次電訪日期 --></label>
+        <name>X1st_Call_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 已初次電訪 --></label>
+        <name>X1st_Called__c</name>
+    </fields>
+    <layouts>
+        <layout>CUB Domestic Campaign</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- 備註 --></label>
+            <section>備註</section>
+        </sections>
+        <sections>
+            <label><!-- 客戶資訊 --></label>
+            <section>客戶資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 帳戶必要資訊 (若轉換至「新」帳戶，則轉換前需填寫) --></label>
+            <section>帳戶必要資訊 (若轉換至「新」帳戶，則轉換前需填寫)</section>
+        </sections>
+        <sections>
+            <label><!-- 底層資料參考 --></label>
+            <section>底層資料參考</section>
+        </sections>
+        <sections>
+            <label><!-- 本行往來資訊 --></label>
+            <section>本行往來資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 法金客群標籤 --></label>
+            <section>法金客群標籤</section>
+        </sections>
+        <sections>
+            <label><!-- 派發資訊 --></label>
+            <section>派發資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 系統資訊 --></label>
+            <section>系統資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 辨識欄位 --></label>
+            <section>辨識欄位</section>
+        </sections>
+        <sections>
+            <label><!-- 開發狀態 --></label>
+            <section>開發狀態</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CUB Domestic Self Development</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- 客戶資訊 --></label>
+            <section>客戶資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 帳戶必要資訊 (若轉換至「新」帳戶，則轉換前需填寫) --></label>
+            <section>帳戶必要資訊 (若轉換至「新」帳戶，則轉換前需填寫)</section>
+        </sections>
+        <sections>
+            <label><!-- 系統資訊 --></label>
+            <section>系統資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 開發狀態 --></label>
+            <section>開發狀態</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CUB Oversea Campaign</layout>
+        <sections>
+            <label><!-- Account Required Fields (Fill in Before Converting to &quot;New&quot; Account)) --></label>
+            <section>Account Required Fields (Fill in Before Converting to &quot;New&quot; Account))</section>
+        </sections>
+        <sections>
+            <label><!-- Client Information --></label>
+            <section>Client Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Develop Information --></label>
+            <section>Develop Information</section>
+        </sections>
+        <sections>
+            <label><!-- Distribute Information --></label>
+            <section>Distribute Information</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CUB Oversea Self Development</layout>
+        <sections>
+            <label><!-- Account Required Fields (Fill in Before Converting to &quot;New&quot; Account)) --></label>
+            <section>Account Required Fields (Fill in Before Converting to &quot;New&quot; Account))</section>
+        </sections>
+        <sections>
+            <label><!-- Client Information --></label>
+            <section>Client Information</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Develop Information --></label>
+            <section>Develop Information</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Lead (General) Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Referral Information --></label>
+            <section>Referral Information</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Lead (Referral) Layout</layout>
+        <sections>
+            <label><!-- Referral Information --></label>
+            <section>Referral Information</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- 國內_行銷名單 --></label>
+        <name>CUB_Domestic_Campaign</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- 國內_自行開發 --></label>
+        <name>CUB_Domestic_Self_Development</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Oversea Campaign --></label>
+        <name>CUB_Oversea_Campaign</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Oversea Self Development --></label>
+        <name>CUB_Oversea_Self_Development</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- 轉介_國內分行轉介 --></label>
+        <name>CUB_Referral_Domestic_Branch</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- 轉介_國內法人法金轉介 --></label>
+        <name>CUB_Referral_Domestic_Company</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- 轉介_國內自然人法金轉介 --></label>
+        <name>CUB_Referral_Domestic_Individual</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- 轉介_跨國法金轉介 --></label>
+        <name>CUB_Transnational_Referral</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- A business or organization that is a commercial banking business referral​ --></description>
+        <label><!-- Business Referral --></label>
+        <name>FinServ__BusinessReferral</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- General --></label>
+        <name>FinServ__General</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- A person, business, or organization that is a referral --></description>
+        <label><!-- Person Referral --></label>
+        <name>FinServ__Referral</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Retirement Planning --></label>
+        <name>FinServ__RetirementPlanning</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- 若「無效原因」選擇「其他」，請先填寫「無效原因說明」 --></errorMessage>
+        <name>CUB_InvalidReasonNoteIsRequired</name>
+    </validationRules>
+</CustomObjectTranslation>

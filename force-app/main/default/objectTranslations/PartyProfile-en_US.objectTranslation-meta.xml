@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- 客戶識別碼 (KYC) --></label>
+        <name>Account_Key_Id_KYC__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶名稱 (主要語言) --></label>
+        <name>Account_Name_Primary_Language__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶名稱 (次要語言) --></label>
+        <name>Account_Name_Secondary_Language__c</name>
+    </fields>
+    <fields>
+        <label><!-- Aerial Map Target Customer --></label>
+        <name>Aerial_Map_Target_Customer__c</name>
+        <picklistValues>
+            <masterLabel>N/A</masterLabel>
+            <translation><!-- N/A --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 是否有本行專業投資人資格 --></label>
+        <name>Bank_Prof_Investor__c</name>
+    </fields>
+    <fields>
+        <label><!-- 需提供買家信用卡支付功能 --></label>
+        <name>Buyer_Credit_Card_Payment__c</name>
+        <picklistValues>
+            <masterLabel>否</masterLabel>
+            <translation><!-- 否 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>是</masterLabel>
+            <translation><!-- 是 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 本次申請案件類型 --></label>
+        <name>Case_Type__c</name>
+        <picklistValues>
+            <masterLabel>1. 存款案件</masterLabel>
+            <translation><!-- 1. 存款案件 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2. 授信案件</masterLabel>
+            <translation><!-- 2. 授信案件 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 檢查帳戶客戶識別碼 --></label>
+        <name>Check_Account_Key_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 他行金交額度是否有擔保品 --></label>
+        <name>Collateral__c</name>
+        <picklistValues>
+            <masterLabel>否</masterLabel>
+            <translation><!-- 否 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>是</masterLabel>
+            <translation><!-- 是 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 公司人數 --></label>
+        <name>Company_Emp_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司型態 --></label>
+        <name>Company_Type__c</name>
+        <picklistValues>
+            <masterLabel>1. 投資公司</masterLabel>
+            <translation><!-- 1. 投資公司 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2. 一般企業</masterLabel>
+            <translation><!-- 2. 一般企業 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 接觸層級 --></label>
+        <name>Contact_Level__c</name>
+    </fields>
+    <fields>
+        <label><!-- 授信類型 --></label>
+        <name>Credit_Type__c</name>
+        <picklistValues>
+            <masterLabel>1. 紓困案件且到期不續展</masterLabel>
+            <translation><!-- 1. 紓困案件且到期不續展 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2. 僅太陽能特殊融資案件</masterLabel>
+            <translation><!-- 2. 僅太陽能特殊融資案件 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3. 一般授信案件</masterLabel>
+            <translation><!-- 3. 一般授信案件 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 客戶 ID --></label>
+        <name>Customer_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶產銷模式 --></label>
+        <name>Customer_Prod_Sales_Model__c</name>
+    </fields>
+    <fields>
+        <label><!-- 內銷收款方式 --></label>
+        <name>Domestic_Receipt__c</name>
+    </fields>
+    <fields>
+        <label><!-- 外銷比例% --></label>
+        <name>Export_Percent__c</name>
+    </fields>
+    <fields>
+        <label><!-- 外銷收款方式 --></label>
+        <name>Export_Receipt__c</name>
+    </fields>
+    <fields>
+        <label><!-- 是否有自有工廠(含關係企業) --></label>
+        <name>Field1__c</name>
+        <picklistValues>
+            <masterLabel>否</masterLabel>
+            <translation><!-- 否 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>是</masterLabel>
+            <translation><!-- 是 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 首次接洽日 --></label>
+        <name>First_Contact_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 首次拜訪/協訪日 --></label>
+        <name>First_Visit_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 行業別 --></label>
+        <name>Industry__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司近一年完整年度財報營收 (億元) --></label>
+        <name>Lastyr_Fin_Report_Revenue__c</name>
+    </fields>
+    <fields>
+        <label><!-- 最新經營計劃 --></label>
+        <name>Latest_Account_Plan__c</name>
+        <relationshipLabel><!-- Party Profiles --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 最近一次聯繫日 --></label>
+        <name>Latest_Contact_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 主要營運模式 --></label>
+        <name>Main_Oper_Model__c</name>
+    </fields>
+    <fields>
+        <label><!-- 銷售對象為自然人且非預付性質且非第三方支付公司 --></label>
+        <name>Natural_Prepaid_Nature_Third_Party__c</name>
+        <picklistValues>
+            <masterLabel>否</masterLabel>
+            <translation><!-- 否 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>是</masterLabel>
+            <translation><!-- 是 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 下次應辦理年審月份 --></label>
+        <name>Next_Review_Month__c</name>
+    </fields>
+    <fields>
+        <label><!-- 有非避險金融交易額度需求 --></label>
+        <name>Non_Hedge_Fin_Trans_Need__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司為OBU --></label>
+        <name>OBU_Company__c</name>
+        <picklistValues>
+            <masterLabel>否</masterLabel>
+            <translation><!-- 否 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>是</masterLabel>
+            <translation><!-- 是 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 是否有他行買賣債券經驗 --></label>
+        <name>Other_Bank_Bond_Experience__c</name>
+        <picklistValues>
+            <masterLabel>否</masterLabel>
+            <translation><!-- 否 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>是</masterLabel>
+            <translation><!-- 是 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 他行現金折台幣 (元) --></label>
+        <name>Other_Bank_Cash_Convert_TWD__c</name>
+    </fields>
+    <fields>
+        <label><!-- 他行曾/已承作應收帳款融資 --></label>
+        <name>Other_Bank_Factoring__c</name>
+        <picklistValues>
+            <masterLabel>否</masterLabel>
+            <translation><!-- 否 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>是</masterLabel>
+            <translation><!-- 是 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 他行是否有金交額度 --></label>
+        <name>Other_Bank_PSR_Limit__c</name>
+        <picklistValues>
+            <masterLabel>否</masterLabel>
+            <translation><!-- 否 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>是</masterLabel>
+            <translation><!-- 是 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 是否有他行專業投資人資格 --></label>
+        <name>Other_Bank_Prof_Investor__c</name>
+        <picklistValues>
+            <masterLabel>否</masterLabel>
+            <translation><!-- 否 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>是</masterLabel>
+            <translation><!-- 是 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 其他海外據點備註 --></label>
+        <name>Other_Overseas_Locations_Remark__c</name>
+    </fields>
+    <fields>
+        <label><!-- 是否有其他海外據點 --></label>
+        <name>Other_Overseas_Locations__c</name>
+        <picklistValues>
+            <masterLabel>否</masterLabel>
+            <translation><!-- 否 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>是</masterLabel>
+            <translation><!-- 是 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 其他潛力 --></label>
+        <name>Other_Potential__c</name>
+    </fields>
+    <fields>
+        <label><!-- 外購付款方式 --></label>
+        <name>Outsourcing_Payment__c</name>
+    </fields>
+    <fields>
+        <label><!-- 外購比例% --></label>
+        <name>Outsourcing_Ratio__c</name>
+    </fields>
+    <fields>
+        <label><!-- PI開戶 --></label>
+        <name>PI_Open_Account__c</name>
+    </fields>
+    <fields>
+        <label><!-- 收款對象眾多且有自動銷帳或多元化收款通路需求 --></label>
+        <name>Payment_Recipients_AAC_NDPC__c</name>
+        <picklistValues>
+            <masterLabel>否</masterLabel>
+            <translation><!-- 否 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>是</masterLabel>
+            <translation><!-- 是 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 本行薪轉戶 --></label>
+        <name>Payroll__c</name>
+    </fields>
+    <fields>
+        <label><!-- 產品潛力 --></label>
+        <name>Product_Potential__c</name>
+    </fields>
+    <fields>
+        <label><!-- 是否有應收帳款業務需求 --></label>
+        <name>Receivable_Business_Need__c</name>
+        <picklistValues>
+            <masterLabel>否</masterLabel>
+            <translation><!-- 否 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>是</masterLabel>
+            <translation><!-- 是 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 註冊地國家別 --></label>
+        <name>Registered_Country__c</name>
+    </fields>
+    <fields>
+        <label><!-- 有門市店員或外務營收現金存款需求(例:物流業者) --></label>
+        <name>Retail_Clerks_Deposit_Needs__c</name>
+        <picklistValues>
+            <masterLabel>否</masterLabel>
+            <translation><!-- 否 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>是</masterLabel>
+            <translation><!-- 是 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 出貨給國內外知名廠商且天期&gt;60天 --></label>
+        <name>Ship_60Days_Known_Mfrs__c</name>
+        <picklistValues>
+            <masterLabel>否</masterLabel>
+            <translation><!-- 否 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>是</masterLabel>
+            <translation><!-- 是 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 出貨給本行配合供應鏈融資專案的銷貨對象 (特力屋、喬山等) --></label>
+        <name>Ship_To_Sales_Target_SC_Fin__c</name>
+        <picklistValues>
+            <masterLabel>否</masterLabel>
+            <translation><!-- 否 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>是</masterLabel>
+            <translation><!-- 是 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 行業別子類 --></label>
+        <name>Sub_Industry__c</name>
+    </fields>
+    <fields>
+        <label><!-- TCRI --></label>
+        <name>TCRI__c</name>
+    </fields>
+    <fields>
+        <label><!-- TMRAC --></label>
+        <name>TMRAC__c</name>
+    </fields>
+    <fields>
+        <label><!-- 交易幣別 --></label>
+        <name>Transaction_Currency__c</name>
+    </fields>
+    <layouts>
+        <layout>CUB KYC Domestic Layout</layout>
+        <sections>
+            <label><!-- KYC資訊 --></label>
+            <section>KYC資訊</section>
+        </sections>
+        <sections>
+            <label><!-- TMU 相關 --></label>
+            <section>TMU 相關</section>
+        </sections>
+        <sections>
+            <label><!-- 企業理財相關 --></label>
+            <section>企業理財相關</section>
+        </sections>
+        <sections>
+            <label><!-- 基本資料 --></label>
+            <section>基本資料</section>
+        </sections>
+        <sections>
+            <label><!-- 系統資訊 --></label>
+            <section>系統資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 貿融相關 --></label>
+            <section>貿融相關</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CUB KYC Overseas Layout</layout>
+        <sections>
+            <label><!-- Customer Information --></label>
+            <section>Customer Information</section>
+        </sections>
+        <sections>
+            <label><!-- Other KYC Information --></label>
+            <section>Other KYC Information</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+        <sections>
+            <label><!-- TMU Information --></label>
+            <section>TMU Information</section>
+        </sections>
+        <sections>
+            <label><!-- Trade Finance Information --></label>
+            <section>Trade Finance Information</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- 法人KYC國內 --></label>
+        <name>Corporate_KYC_Domestic</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- 法人KYC海外 --></label>
+        <name>Corporate_KYC_Overseas</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- Please maintain &quot;Other Potential&quot; for supplement. --></errorMessage>
+        <name>Overseas_Other_Potential_Required</name>
+    </validationRules>
+</CustomObjectTranslation>

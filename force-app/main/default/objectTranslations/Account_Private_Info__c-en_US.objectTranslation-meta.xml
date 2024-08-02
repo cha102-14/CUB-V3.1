@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 客戶非公開資訊 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 客戶非公開資訊 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- 客戶非公開資訊外鍵 --></label>
+        <name>Account_Private_Info_External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶 --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- 客戶非公開資訊 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 前一營業日存款餘額 --></label>
+        <name>Last_Business_Day_Deposit_Balance__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前一營業日出口實績 --></label>
+        <name>Last_Business_Day_Export__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前一營業日進口實績 --></label>
+        <name>Last_Business_Day_Import__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前一營業日放款餘額 --></label>
+        <name>Last_Business_Day_Loan_Balance__c</name>
+    </fields>
+    <fields>
+        <label><!-- 個人關聯戶彙總各角色總資產 --></label>
+        <name>TotalAst_RelPerAcc__c</name>
+    </fields>
+    <fields>
+        <label><!-- 個人關聯戶彙總各角色信用卡總額度 --></label>
+        <name>TotalCCLim_RelPerAcc__c</name>
+    </fields>
+    <fields>
+        <label><!-- 個人關聯戶彙總各角色總負債 --></label>
+        <name>TotalLiab_RelPerAcc__c</name>
+    </fields>
+    <fields>
+        <label><!-- VIP級別 --></label>
+        <name>VIP_Level__c</name>
+    </fields>
+    <fields>
+        <label><!-- 分行理專 --></label>
+        <name>WM_RM__c</name>
+    </fields>
+    <layouts>
+        <layout>客戶非公開資訊 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- 客戶非公開資訊 --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

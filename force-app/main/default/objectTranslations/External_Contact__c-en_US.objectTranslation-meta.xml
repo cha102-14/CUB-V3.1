@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 行外聯絡窗口 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 行外聯絡窗口 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- 客戶非公開資訊 --></label>
+        <name>Account_Private_Info__c</name>
+        <relationshipLabel><!-- 行外聯絡窗口 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 客戶 --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- 行外聯絡窗口 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 行外聯絡窗口外鍵 --></label>
+        <name>External_Contact_External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 行動電話 --></label>
+        <name>Mobile__c</name>
+    </fields>
+    <fields>
+        <label><!-- 市話 --></label>
+        <name>Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- 職務 --></label>
+        <name>Title__c</name>
+    </fields>
+    <layouts>
+        <layout>行外聯絡窗口 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- 窗口 --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

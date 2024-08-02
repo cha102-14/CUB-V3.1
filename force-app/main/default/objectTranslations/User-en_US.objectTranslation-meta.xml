@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- 所屬大地理區 --></label>
+        <name>Area__c</name>
+    </fields>
+    <fields>
+        <label><!-- 隸屬國家 --></label>
+        <name>Belong_Country__c</name>
+    </fields>
+    <fields>
+        <label><!-- 負責客群 --></label>
+        <name>Customer_Segment__c</name>
+    </fields>
+    <fields>
+        <label><!-- 員工編號 --></label>
+        <name>Employee_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 所屬科別 --></label>
+        <name>Team__c</name>
+    </fields>
+    <fields>
+        <label><!-- 所屬區部代號 --></label>
+        <name>Unit_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- 所屬區部名稱 --></label>
+        <name>Unit_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 所屬區部 --></label>
+        <name>Unit__c</name>
+    </fields>
+    <layouts>
+        <layout>Community Member Layout</layout>
+        <layoutType>CommunityMemberLayout</layoutType>
+        <sections>
+            <label><!-- Basic Information --></label>
+            <section>Basic Information</section>
+        </sections>
+        <sections>
+            <label><!-- Chatter Settings --></label>
+            <section>Chatter Settings</section>
+        </sections>
+        <sections>
+            <label><!-- Language And Locale Settings --></label>
+            <section>Language And Locale Settings</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>User Profile Layout</layout>
+        <layoutType>UserAlt</layoutType>
+        <sections>
+            <label><!-- About --></label>
+            <section>About</section>
+        </sections>
+        <sections>
+            <label><!-- Background --></label>
+            <section>Background</section>
+        </sections>
+        <sections>
+            <label><!-- Contact --></label>
+            <section>Contact</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>
