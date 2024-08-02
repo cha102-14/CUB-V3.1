@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
+        <fullName>Basic_Information</fullName>
+        <categories>OmniScript</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Basic Information</shortDescription>
+        <value>Basic Information</value>
+    </labels>
+    <labels>
         <fullName>Distribute_Confirm_Text</fullName>
         <language>zh_TW</language>
         <protected>false</protected>
