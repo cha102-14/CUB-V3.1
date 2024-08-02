@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label><!-- Related Accounts --></label>
+        <name>WM_Household_RelatedAccounts</name>
+    </fieldSets>
+    <fields>
+        <label><!-- 帳戶所屬單位與關係所屬單位不同 --></label>
+        <name>AccountOwner_AAR_NET__c</name>
+    </fields>
+    <fields>
+        <help><!-- A. 有控制與從屬關係
+B. 有相互投資關係 
+C. 董事長 (或代表公司董事、執行業務股東) 或總經理與他公司之董事長 (或代表公司董事、執行業務股東) 或總經理為同一人或具配偶關係者
+D. 其他 --></help>
+        <label><!-- 關係企業代號 --></label>
+        <name>Affiliate_Code__c</name>
+        <picklistValues>
+            <masterLabel>A</masterLabel>
+            <translation><!-- A --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>B</masterLabel>
+            <translation><!-- B --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>C</masterLabel>
+            <translation><!-- C --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D</masterLabel>
+            <translation><!-- D --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 自動建立資料 --></label>
+        <name>Automatic_Created__c</name>
+    </fields>
+    <fields>
+        <label><!-- CUB External ID --></label>
+        <name>CUB_External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 資料來自外部系統 --></label>
+        <name>Data_From_Non_SF__c</name>
+    </fields>
+    <fields>
+        <label><!-- 迄日 --></label>
+        <name>End_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Account --></label>
+        <name>FinServ__Account__c</name>
+        <relationshipLabel><!-- Account Account Relations (Account) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Active --></label>
+        <name>FinServ__Active__c</name>
+    </fields>
+    <fields>
+        <label><!-- Association Type --></label>
+        <name>FinServ__AssociationType__c</name>
+        <picklistValues>
+            <masterLabel>Group</masterLabel>
+            <translation><!-- Group --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Member</masterLabel>
+            <translation><!-- Member --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Peer</masterLabel>
+            <translation><!-- Peer --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Declaration Type --></label>
+        <name>FinServ__DeclarationType__c</name>
+        <picklistValues>
+            <masterLabel>Official Register</masterLabel>
+            <translation><!-- Official Register --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Self declaration</masterLabel>
+            <translation><!-- Self declaration --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- End Date --></label>
+        <name>FinServ__EndDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- External ID --></label>
+        <name>FinServ__ExternalId__c</name>
+    </fields>
+    <fields>
+        <label><!-- InverseRelationship --></label>
+        <name>FinServ__InverseRelationship__c</name>
+        <relationshipLabel><!-- Account Account Relations --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Shareholder --></label>
+        <name>FinServ__IsShareholder__c</name>
+    </fields>
+    <fields>
+        <label><!-- Related Account --></label>
+        <name>FinServ__RelatedAccount__c</name>
+        <relationshipLabel><!-- Account Account Relations (Related Account) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Related Role --></label>
+        <name>FinServ__Role__c</name>
+        <relationshipLabel><!-- Account Account Relations --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Shareholder Hierarchy Level --></label>
+        <name>FinServ__ShareholderHierarchyLevel__c</name>
+    </fields>
+    <fields>
+        <label><!-- Shareholder Hierarchy Role --></label>
+        <name>FinServ__ShareholderHierarchyRole__c</name>
+        <picklistValues>
+            <masterLabel>Ultimate Beneficial Owner</masterLabel>
+            <translation><!-- Ultimate Beneficial Owner --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Shareholder Type --></label>
+        <name>FinServ__ShareholderType__c</name>
+        <picklistValues>
+            <masterLabel>Voting Rights</masterLabel>
+            <translation><!-- Voting Rights --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Source System ID --></label>
+        <name>FinServ__SourceSystemId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Start Date --></label>
+        <name>FinServ__StartDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- Total Share Percent --></label>
+        <name>FinServ__TotalSharePercent__c</name>
+    </fields>
+    <fields>
+        <label><!-- 最近資料來源 --></label>
+        <name>Last_Data_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- 原始資料來源 --></label>
+        <name>Orig_Data_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- 其他結帳方式說明 --></label>
+        <name>Other_Payment_Method__c</name>
+    </fields>
+    <fields>
+        <label><!-- 其他交易方式說明 --></label>
+        <name>Other_Transaction_Method__c</name>
+    </fields>
+    <fields>
+        <label><!-- 關係擁有者與關係所屬單位不同 --></label>
+        <name>Owner_AAR_NET__c</name>
+    </fields>
+    <fields>
+        <label><!-- 關係代號 --></label>
+        <name>Parties_Code__c</name>
+        <picklistValues>
+            <masterLabel>2100 集團對子公司</masterLabel>
+            <translation><!-- 2100 集團對子公司 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8001 父</masterLabel>
+            <translation><!-- 8001 父 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8002 母</masterLabel>
+            <translation><!-- 8002 母 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8003 子</masterLabel>
+            <translation><!-- 8003 子 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8004 女兒</masterLabel>
+            <translation><!-- 8004 女兒 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8005 祖父</masterLabel>
+            <translation><!-- 8005 祖父 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8006 祖母</masterLabel>
+            <translation><!-- 8006 祖母 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8007 外祖父</masterLabel>
+            <translation><!-- 8007 外祖父 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8008 外祖母</masterLabel>
+            <translation><!-- 8008 外祖母 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8009 兄弟</masterLabel>
+            <translation><!-- 8009 兄弟 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8010 姊妹</masterLabel>
+            <translation><!-- 8010 姊妹 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8011 孫</masterLabel>
+            <translation><!-- 8011 孫 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8012 孫女</masterLabel>
+            <translation><!-- 8012 孫女 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8013 外孫</masterLabel>
+            <translation><!-- 8013 外孫 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8014 外孫女</masterLabel>
+            <translation><!-- 8014 外孫女 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8031 配偶</masterLabel>
+            <translation><!-- 8031 配偶 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8201 董事長</masterLabel>
+            <translation><!-- 8201 董事長 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8202 副董事長</masterLabel>
+            <translation><!-- 8202 副董事長 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8203 總經理</masterLabel>
+            <translation><!-- 8203 總經理 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8204 副總經理</masterLabel>
+            <translation><!-- 8204 副總經理 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8253 獨資行號負責人</masterLabel>
+            <translation><!-- 8253 獨資行號負責人 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8264 名譽董事長</masterLabel>
+            <translation><!-- 8264 名譽董事長 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8265 董事</masterLabel>
+            <translation><!-- 8265 董事 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8267 常務董事</masterLabel>
+            <translation><!-- 8267 常務董事 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8268 常駐監察人</masterLabel>
+            <translation><!-- 8268 常駐監察人 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8269 監察人</masterLabel>
+            <translation><!-- 8269 監察人 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8280 局長</masterLabel>
+            <translation><!-- 8280 局長 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8282 理事主席</masterLabel>
+            <translation><!-- 8282 理事主席 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8283 合夥人</masterLabel>
+            <translation><!-- 8283 合夥人 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8284 清算人</masterLabel>
+            <translation><!-- 8284 清算人 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8285 監事</masterLabel>
+            <translation><!-- 8285 監事 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8286 代表</masterLabel>
+            <translation><!-- 8286 代表 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8315 法人代表</masterLabel>
+            <translation><!-- 8315 法人代表 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8316 法人股東之負責人</masterLabel>
+            <translation><!-- 8316 法人股東之負責人 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8318 代表公司之股東</masterLabel>
+            <translation><!-- 8318 代表公司之股東 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8319 (股)公司之發起人</masterLabel>
+            <translation><!-- 8319 (股)公司之發起人 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8320 (股)公司之檢查人</masterLabel>
+            <translation><!-- 8320 (股)公司之檢查人 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8321 (股)公司之重整人</masterLabel>
+            <translation><!-- 8321 (股)公司之重整人 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8322 (股)公司重整監督人</masterLabel>
+            <translation><!-- 8322 (股)公司重整監督人 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8323 非公司組織之負責人</masterLabel>
+            <translation><!-- 8323 非公司組織之負責人 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8324 法人股東(董監事)</masterLabel>
+            <translation><!-- 8324 法人股東(董監事) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8382 配偶為董監事或總經理</masterLabel>
+            <translation><!-- 8382 配偶為董監事或總經理 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8392 公司實際經營者</masterLabel>
+            <translation><!-- 8392 公司實際經營者 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8403 訴訟代理人</masterLabel>
+            <translation><!-- 8403 訴訟代理人 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8404 經理人</masterLabel>
+            <translation><!-- 8404 經理人 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8405 獨立董事</masterLabel>
+            <translation><!-- 8405 獨立董事 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8406 執行業務股東</masterLabel>
+            <translation><!-- 8406 執行業務股東 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8407 股東(單獨或關係人合計持股達10%)</masterLabel>
+            <translation><!-- 8407 股東(單獨或關係人合計持股達10%) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8408 執行長</masterLabel>
+            <translation><!-- 8408 執行長 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- 若選擇「其他」，請先填寫「其他結帳方式說明」欄位 --></help>
+        <label><!-- 結帳方式 --></label>
+        <name>Payment_Method__c</name>
+        <picklistValues>
+            <masterLabel>2個月結</masterLabel>
+            <translation><!-- 2個月結 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>其他</masterLabel>
+            <translation><!-- 其他 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>出貨後</masterLabel>
+            <translation><!-- 出貨後 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>月結</masterLabel>
+            <translation><!-- 月結 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 收付款天期 --></label>
+        <name>Payment_Term__c</name>
+    </fields>
+    <fields>
+        <label><!-- 比例 --></label>
+        <name>Ratio__c</name>
+    </fields>
+    <fields>
+        <label><!-- 資料所屬區部 --></label>
+        <name>Record_Unit__c</name>
+    </fields>
+    <fields>
+        <label><!-- 是否為關係人 --></label>
+        <name>Related_Party__c</name>
+    </fields>
+    <fields>
+        <label><!-- 關係Key值 --></label>
+        <name>Relation_Record_Key__c</name>
+    </fields>
+    <fields>
+        <label><!-- 持股比例 --></label>
+        <name>Shareholding_Ratio__c</name>
+    </fields>
+    <fields>
+        <label><!-- 起始日 --></label>
+        <name>Start_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 進銷貨金額 --></label>
+        <name>Transaction_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 進銷貨項目 --></label>
+        <name>Transaction_Items__c</name>
+    </fields>
+    <fields>
+        <help><!-- 若選擇其他，請先填寫「其他交易方式說明」欄位 --></help>
+        <label><!-- 交易方式 --></label>
+        <name>Transaction_Method__c</name>
+        <picklistValues>
+            <masterLabel>L/C</masterLabel>
+            <translation><!-- L/C --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>T/T</masterLabel>
+            <translation><!-- T/T --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>其他</masterLabel>
+            <translation><!-- 其他 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>期票</masterLabel>
+            <translation><!-- 期票 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>現金</masterLabel>
+            <translation><!-- 現金 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 往來期間(年) --></label>
+        <name>Transaction_Period__c</name>
+    </fields>
+    <fields>
+        <label><!-- 年度 --></label>
+        <name>Year__c</name>
+    </fields>
+    <layouts>
+        <layout>Account Account Relation Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- 持股比例資訊 --></label>
+            <section>持股比例資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 系統資訊 --></label>
+            <section>系統資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 進銷貨資訊 --></label>
+            <section>進銷貨資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 關係人資訊 --></label>
+            <section>關係人資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 關係企業資訊 --></label>
+            <section>關係企業資訊</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Account-Account Relationship Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CUB Affiliate Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- 系統資訊 --></label>
+            <section>系統資訊</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CUB Group Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- 系統資訊 --></label>
+            <section>系統資訊</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CUB Related Parties Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- 系統資訊 --></label>
+            <section>系統資訊</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CUB Share Holdings Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- 系統資訊 --></label>
+            <section>系統資訊</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>CUB Supply Chain Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- 系統資訊 --></label>
+            <section>系統資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 進銷貨資訊 --></label>
+            <section>進銷貨資訊</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- 關係企業 --></label>
+        <name>Affiliate</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- 集團 --></label>
+        <name>Group</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- 關係人 --></label>
+        <name>RelatedParties</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- 持股比例關係 --></label>
+        <name>ShareHoldings</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- 進銷貨廠商 --></label>
+        <name>SupplyChain</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- 關係企業/關係人/集團關係不可選取「統編證件類型」為「88/89」的帳戶 --></errorMessage>
+        <name>CUB_AccountTypeIDCantBe8889</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- 關係企業為兩法人間的關係 --></errorMessage>
+        <name>CUB_AffiliateRelationAccountType</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- 集團關係為集團戶與法人間的關係 --></errorMessage>
+        <name>CUB_GroupRelationAccountType</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- 僅集團虛擬戶所屬單位可建立/維護集團關係 --></errorMessage>
+        <name>CUB_OnlyGroupOwnerTeamCanCreateGroupRel</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- 若「結帳方式」選擇「其他」，請先填寫「其他結帳方式說明」 --></errorMessage>
+        <name>CUB_PaymentMethodReasonNoteIsRequired</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- 關係人為「自然人/法人」與「自然人/法人」間的關係 --></errorMessage>
+        <name>CUB_RelatedPartiesRelationAccountType</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- 進銷貨關係為兩法人間的關係 --></errorMessage>
+        <name>CUB_SupplyChainRelationAccountType</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- 若「交易方式」選擇「其他」，請先填寫「其他交易方式說明」 --></errorMessage>
+        <name>CUB_TransactionMethodNoteIsRequired</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- 需與兩帳戶任一「所屬單位」相同，才可建立/編輯此關係 --></errorMessage>
+        <name>CUB_UserShouldBeTheSameTeamWithAcct</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- This record can&apos;t be edited. To update relationship information, you can deactivate this record and create a new one. --></errorMessage>
+        <name>FinServ__AARCanOnlyBeDeactivated</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Account and Related Account must be different entities. --></errorMessage>
+        <name>FinServ__AccountAndRelatedAccountCannotBeSame</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Account can&apos;t be a part of an individual. --></errorMessage>
+        <name>FinServ__AccountCannotBeAnIndividual</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- A Account-Account Relationship cannot be created as Inactive. --></errorMessage>
+        <name>FinServ__CannotCreateInactiveRecord</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Inactive record can&apos;t be edited. To update relationship information, you can create a new one. --></errorMessage>
+        <name>FinServ__InactiveAARCannotBeEdited</name>
+    </validationRules>
+</CustomObjectTranslation>

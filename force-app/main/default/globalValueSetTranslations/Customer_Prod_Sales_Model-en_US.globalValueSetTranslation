@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>內購</masterLabel>
+        <translation><!-- 內購 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>內銷</masterLabel>
+        <translation><!-- 內銷 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>外購</masterLabel>
+        <translation><!-- 外購 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>外銷</masterLabel>
+        <translation><!-- 外銷 --></translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

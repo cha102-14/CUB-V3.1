@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>603</masterLabel>
+        <translation><!-- 603 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>604</masterLabel>
+        <translation><!-- 604 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>605</masterLabel>
+        <translation><!-- 605 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>721</masterLabel>
+        <translation><!-- 721 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>722</masterLabel>
+        <translation><!-- 722 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>725</masterLabel>
+        <translation><!-- 725 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>726</masterLabel>
+        <translation><!-- 726 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>728</masterLabel>
+        <translation><!-- 728 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>729</masterLabel>
+        <translation><!-- 729 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>731</masterLabel>
+        <translation><!-- 731 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>733</masterLabel>
+        <translation><!-- 733 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>734</masterLabel>
+        <translation><!-- 734 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>735</masterLabel>
+        <translation><!-- 735 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>737</masterLabel>
+        <translation><!-- 737 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>777</masterLabel>
+        <translation><!-- 777 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>779</masterLabel>
+        <translation><!-- 779 --></translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

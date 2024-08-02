@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>AED</masterLabel>
+        <translation><!-- AED --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>AFN</masterLabel>
+        <translation><!-- AFN --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>ALL</masterLabel>
+        <translation><!-- ALL --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>AMD</masterLabel>
+        <translation><!-- AMD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>ANG</masterLabel>
+        <translation><!-- ANG --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>AOA</masterLabel>
+        <translation><!-- AOA --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>ARS</masterLabel>
+        <translation><!-- ARS --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>AUD</masterLabel>
+        <translation><!-- AUD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>AWG</masterLabel>
+        <translation><!-- AWG --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>AZN</masterLabel>
+        <translation><!-- AZN --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BAM</masterLabel>
+        <translation><!-- BAM --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BBD</masterLabel>
+        <translation><!-- BBD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BDT</masterLabel>
+        <translation><!-- BDT --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BGN</masterLabel>
+        <translation><!-- BGN --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BHD</masterLabel>
+        <translation><!-- BHD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BIF</masterLabel>
+        <translation><!-- BIF --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BMD</masterLabel>
+        <translation><!-- BMD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BND</masterLabel>
+        <translation><!-- BND --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BOB</masterLabel>
+        <translation><!-- BOB --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BRL</masterLabel>
+        <translation><!-- BRL --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BSD</masterLabel>
+        <translation><!-- BSD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BTN</masterLabel>
+        <translation><!-- BTN --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BWP</masterLabel>
+        <translation><!-- BWP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BYN</masterLabel>
+        <translation><!-- BYN --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>BZD</masterLabel>
+        <translation><!-- BZD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>CAD</masterLabel>
+        <translation><!-- CAD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>CDF</masterLabel>
+        <translation><!-- CDF --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>CHF</masterLabel>
+        <translation><!-- CHF --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>CLP</masterLabel>
+        <translation><!-- CLP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>CNY</masterLabel>
+        <translation><!-- CNY --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>COP</masterLabel>
+        <translation><!-- COP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>CRC</masterLabel>
+        <translation><!-- CRC --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>CUP</masterLabel>
+        <translation><!-- CUP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>CVE</masterLabel>
+        <translation><!-- CVE --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>CZK</masterLabel>
+        <translation><!-- CZK --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>DJF</masterLabel>
+        <translation><!-- DJF --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>DKK</masterLabel>
+        <translation><!-- DKK --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>DOP</masterLabel>
+        <translation><!-- DOP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>DZD</masterLabel>
+        <translation><!-- DZD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>EGP</masterLabel>
+        <translation><!-- EGP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>ERN</masterLabel>
+        <translation><!-- ERN --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>ETB</masterLabel>
+        <translation><!-- ETB --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>EUR</masterLabel>
+        <translation><!-- EUR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>FJD</masterLabel>
+        <translation><!-- FJD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>FKP</masterLabel>
+        <translation><!-- FKP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>FOK</masterLabel>
+        <translation><!-- FOK --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>GBP</masterLabel>
+        <translation><!-- GBP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>GEL</masterLabel>
+        <translation><!-- GEL --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>GGP</masterLabel>
+        <translation><!-- GGP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>GHS</masterLabel>
+        <translation><!-- GHS --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>GIP</masterLabel>
+        <translation><!-- GIP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>GMD</masterLabel>
+        <translation><!-- GMD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>GNF</masterLabel>
+        <translation><!-- GNF --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>GTQ</masterLabel>
+        <translation><!-- GTQ --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>GYD</masterLabel>
+        <translation><!-- GYD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>HKD</masterLabel>
+        <translation><!-- HKD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>HNL</masterLabel>
+        <translation><!-- HNL --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>HRK</masterLabel>
+        <translation><!-- HRK --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>HTG</masterLabel>
+        <translation><!-- HTG --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>HUF</masterLabel>
+        <translation><!-- HUF --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>IDR</masterLabel>
+        <translation><!-- IDR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>ILS</masterLabel>
+        <translation><!-- ILS --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>IMP</masterLabel>
+        <translation><!-- IMP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>INR</masterLabel>
+        <translation><!-- INR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>IQD</masterLabel>
+        <translation><!-- IQD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>IRR</masterLabel>
+        <translation><!-- IRR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>ISK</masterLabel>
+        <translation><!-- ISK --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>JEP</masterLabel>
+        <translation><!-- JEP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>JMD</masterLabel>
+        <translation><!-- JMD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>JOD</masterLabel>
+        <translation><!-- JOD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>JPY</masterLabel>
+        <translation><!-- JPY --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>KES</masterLabel>
+        <translation><!-- KES --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>KGS</masterLabel>
+        <translation><!-- KGS --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>KHR</masterLabel>
+        <translation><!-- KHR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>KID</masterLabel>
+        <translation><!-- KID --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>KMF</masterLabel>
+        <translation><!-- KMF --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>KRW</masterLabel>
+        <translation><!-- KRW --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>KWD</masterLabel>
+        <translation><!-- KWD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>KYD</masterLabel>
+        <translation><!-- KYD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>KZT</masterLabel>
+        <translation><!-- KZT --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>LAK</masterLabel>
+        <translation><!-- LAK --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>LBP</masterLabel>
+        <translation><!-- LBP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>LKR</masterLabel>
+        <translation><!-- LKR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>LRD</masterLabel>
+        <translation><!-- LRD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>LSL</masterLabel>
+        <translation><!-- LSL --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>LYD</masterLabel>
+        <translation><!-- LYD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MAD</masterLabel>
+        <translation><!-- MAD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MDL</masterLabel>
+        <translation><!-- MDL --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MGA</masterLabel>
+        <translation><!-- MGA --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MKD</masterLabel>
+        <translation><!-- MKD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MMK</masterLabel>
+        <translation><!-- MMK --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MNT</masterLabel>
+        <translation><!-- MNT --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MOP</masterLabel>
+        <translation><!-- MOP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MRU</masterLabel>
+        <translation><!-- MRU --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MUR</masterLabel>
+        <translation><!-- MUR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MVR</masterLabel>
+        <translation><!-- MVR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MWK</masterLabel>
+        <translation><!-- MWK --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MXN</masterLabel>
+        <translation><!-- MXN --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MYR</masterLabel>
+        <translation><!-- MYR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>MZN</masterLabel>
+        <translation><!-- MZN --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>NAD</masterLabel>
+        <translation><!-- NAD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>NGN</masterLabel>
+        <translation><!-- NGN --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>NIO</masterLabel>
+        <translation><!-- NIO --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>NOK</masterLabel>
+        <translation><!-- NOK --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>NPR</masterLabel>
+        <translation><!-- NPR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>NZD</masterLabel>
+        <translation><!-- NZD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>OMR</masterLabel>
+        <translation><!-- OMR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>PAB</masterLabel>
+        <translation><!-- PAB --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>PEN</masterLabel>
+        <translation><!-- PEN --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>PGK</masterLabel>
+        <translation><!-- PGK --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>PHP</masterLabel>
+        <translation><!-- PHP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>PKR</masterLabel>
+        <translation><!-- PKR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>PLN</masterLabel>
+        <translation><!-- PLN --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>PYG</masterLabel>
+        <translation><!-- PYG --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>QAR</masterLabel>
+        <translation><!-- QAR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>RON</masterLabel>
+        <translation><!-- RON --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>RSD</masterLabel>
+        <translation><!-- RSD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>RUB</masterLabel>
+        <translation><!-- RUB --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>RWF</masterLabel>
+        <translation><!-- RWF --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>SAR</masterLabel>
+        <translation><!-- SAR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>SBD</masterLabel>
+        <translation><!-- SBD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>SCR</masterLabel>
+        <translation><!-- SCR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>SDG</masterLabel>
+        <translation><!-- SDG --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>SEK</masterLabel>
+        <translation><!-- SEK --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>SGD</masterLabel>
+        <translation><!-- SGD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>SHP</masterLabel>
+        <translation><!-- SHP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>SLL</masterLabel>
+        <translation><!-- SLL --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>SOS</masterLabel>
+        <translation><!-- SOS --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>SRD</masterLabel>
+        <translation><!-- SRD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>SSP</masterLabel>
+        <translation><!-- SSP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>STN</masterLabel>
+        <translation><!-- STN --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>SYP</masterLabel>
+        <translation><!-- SYP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>SZL</masterLabel>
+        <translation><!-- SZL --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>THB</masterLabel>
+        <translation><!-- THB --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>TJS</masterLabel>
+        <translation><!-- TJS --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>TMT</masterLabel>
+        <translation><!-- TMT --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>TND</masterLabel>
+        <translation><!-- TND --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>TOP</masterLabel>
+        <translation><!-- TOP --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>TRY</masterLabel>
+        <translation><!-- TRY --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>TTD</masterLabel>
+        <translation><!-- TTD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>TVD</masterLabel>
+        <translation><!-- TVD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>TWD</masterLabel>
+        <translation><!-- TWD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>TZS</masterLabel>
+        <translation><!-- TZS --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>UAH</masterLabel>
+        <translation><!-- UAH --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>UGX</masterLabel>
+        <translation><!-- UGX --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>USD</masterLabel>
+        <translation><!-- USD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>UYU</masterLabel>
+        <translation><!-- UYU --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>UZS</masterLabel>
+        <translation><!-- UZS --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>VES</masterLabel>
+        <translation><!-- VES --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>VND</masterLabel>
+        <translation><!-- VND --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>VUV</masterLabel>
+        <translation><!-- VUV --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>WST</masterLabel>
+        <translation><!-- WST --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>XAF</masterLabel>
+        <translation><!-- XAF --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>XCD</masterLabel>
+        <translation><!-- XCD --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>XDR</masterLabel>
+        <translation><!-- XDR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>XOF</masterLabel>
+        <translation><!-- XOF --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>XPF</masterLabel>
+        <translation><!-- XPF --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>YER</masterLabel>
+        <translation><!-- YER --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>ZAR</masterLabel>
+        <translation><!-- ZAR --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>ZMW</masterLabel>
+        <translation><!-- ZMW --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>ZWL</masterLabel>
+        <translation><!-- ZWL --></translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

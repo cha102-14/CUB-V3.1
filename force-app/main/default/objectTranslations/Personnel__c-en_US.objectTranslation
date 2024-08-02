@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 人員設定檔 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 人員設定檔 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- 預佔上限名額 --></label>
+        <name>Account_Limit__c</name>
+    </fields>
+    <fields>
+        <label><!-- 預佔剩餘名額 --></label>
+        <name>Account_Remain_Quota__c</name>
+    </fields>
+    <fields>
+        <label><!-- Active --></label>
+        <name>Active__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客群 --></label>
+        <name>Cust_Group__c</name>
+    </fields>
+    <fields>
+        <label><!-- 科別 --></label>
+        <name>Dept__c</name>
+    </fields>
+    <fields>
+        <label><!-- 已分派案件 --></label>
+        <name>Dispatch_Case__c</name>
+    </fields>
+    <fields>
+        <label><!-- 員編 --></label>
+        <name>Emp_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 一階審核人員 --></label>
+        <name>First_Level_Approver__c</name>
+        <relationshipLabel><!-- 人員設定檔 (一階審核人員) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 大地理區 --></label>
+        <name>Geo_Area__c</name>
+    </fields>
+    <fields>
+        <label><!-- 職稱 --></label>
+        <name>Job_Title__c</name>
+    </fields>
+    <fields>
+        <label><!-- 職員姓名 --></label>
+        <name>Name__c</name>
+        <relationshipLabel><!-- 人員設定檔 (職員姓名) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 第一順位對口分行 --></label>
+        <name>Prim_Corr_Branch__c</name>
+    </fields>
+    <fields>
+        <label><!-- 區部代碼 --></label>
+        <name>Reg_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- 已預佔數量 --></label>
+        <name>Reserved_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 第二順位對口分行 --></label>
+        <name>Sec_Corr_Branch__c</name>
+    </fields>
+    <fields>
+        <label><!-- 二階審核人員 --></label>
+        <name>Second_Level_Approver__c</name>
+        <relationshipLabel><!-- 人員設定檔 (二階審核人員) --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 區部 --></label>
+        <name>Unit__c</name>
+    </fields>
+    <layouts>
+        <layout>Personnel Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- 編輯區域 --></label>
+            <section>編輯區域</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- Personnel No --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

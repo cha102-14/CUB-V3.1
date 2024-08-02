@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- Private Customer Information --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- Private Customer Information --></value>
+    </caseValues>
+    <fields>
+        <label><!-- Customer --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- Private Customer Information --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Private Customer Info External Id --></label>
+        <name>Private_Customer_Info_External_Id__c</name>
+    </fields>
+    <layouts>
+        <layout>Private Customer Information Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- Private Customer Information --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

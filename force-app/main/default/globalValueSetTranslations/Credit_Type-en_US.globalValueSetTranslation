@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>1. 紓困案件且到期不續展</masterLabel>
+        <translation><!-- 1. 紓困案件且到期不續展 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>2. 僅太陽能特殊融資案件</masterLabel>
+        <translation><!-- 2. 僅太陽能特殊融資案件 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>3. 一般授信案件</masterLabel>
+        <translation><!-- 3. 一般授信案件 --></translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

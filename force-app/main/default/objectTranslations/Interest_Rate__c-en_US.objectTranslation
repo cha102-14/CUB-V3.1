@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 利率 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 利率 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- Country --></label>
+        <name>Country__c</name>
+    </fields>
+    <fields>
+        <label><!-- Date --></label>
+        <name>Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 1M --></label>
+        <name>One_M__c</name>
+    </fields>
+    <fields>
+        <label><!-- 6M --></label>
+        <name>Six_M__c</name>
+    </fields>
+    <fields>
+        <label><!-- 3M --></label>
+        <name>Three_M__c</name>
+    </fields>
+    <fields>
+        <label><!-- 12M --></label>
+        <name>Twelve_M__c</name>
+    </fields>
+    <fields>
+        <label><!-- Type --></label>
+        <name>Type__c</name>
+    </fields>
+    <layouts>
+        <layout>利率 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- Name --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

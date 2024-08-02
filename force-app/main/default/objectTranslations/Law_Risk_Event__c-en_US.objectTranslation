@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 法源風險事件 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 法源風險事件 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- Account Owner --></label>
+        <name>Account_Owner__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶 --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- 法源風險事件 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 案件類別 --></label>
+        <name>Case_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- 法院 --></label>
+        <name>Court__c</name>
+    </fields>
+    <fields>
+        <label><!-- 本文連結 --></label>
+        <name>Full_Text_Link__c</name>
+    </fields>
+    <fields>
+        <label><!-- 裁判日期 --></label>
+        <name>Judgment_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 裁判類別 --></label>
+        <name>Judgment_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- 法源風險事件外鍵 --></label>
+        <name>Law_Risk_Event_External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 當事人 --></label>
+        <name>Litigant__c</name>
+    </fields>
+    <fields>
+        <label><!-- 主文 --></label>
+        <name>Main_Text__c</name>
+    </fields>
+    <layouts>
+        <layout>法源風險事件 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- 案由 --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>中一區</masterLabel>
+        <translation><!-- 中一區 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>中二區</masterLabel>
+        <translation><!-- 中二區 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北一區</masterLabel>
+        <translation><!-- 北一區 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北三區</masterLabel>
+        <translation><!-- 北三區 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北二區</masterLabel>
+        <translation><!-- 北二區 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北四區</masterLabel>
+        <translation><!-- 北四區 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>南區台南</masterLabel>
+        <translation><!-- 南區台南 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>南區高雄</masterLabel>
+        <translation><!-- 南區高雄 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>投金區</masterLabel>
+        <translation><!-- 投金區 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>新加坡分行</masterLabel>
+        <translation><!-- 新加坡分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>桃竹區</masterLabel>
+        <translation><!-- 桃竹區 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>產一區</masterLabel>
+        <translation><!-- 產一區 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>產三區</masterLabel>
+        <translation><!-- 產三區 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>產二區</masterLabel>
+        <translation><!-- 產二區 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>胡志明市分行</masterLabel>
+        <translation><!-- 胡志明市分行 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>香港分行</masterLabel>
+        <translation><!-- 香港分行 --></translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

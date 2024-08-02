@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>集團ID編碼表</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>集團ID編碼表</value>
+    </caseValues>
+    <fields>
+        <label><!-- 當前值(已取號) --></label>
+        <name>Current_Value__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶統編類型 --></label>
+        <name>Customer_ID_Type__c</name>
+    </fields>
+    <fields>
+        <label><!-- 終止值 --></label>
+        <name>Ending_Value__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前綴固定值 --></label>
+        <name>Prefix_Fixed_Value__c</name>
+    </fields>
+    <nameFieldLabel>集團ID編碼表 Name</nameFieldLabel>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

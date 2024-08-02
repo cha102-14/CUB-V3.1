@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 放款趨勢 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 放款趨勢 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- 客戶非公開資訊 --></label>
+        <name>Account_Private_Info__c</name>
+        <relationshipLabel><!-- 放款趨勢 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 客戶 --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- 放款趨勢 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 今年4月 --></label>
+        <name>April_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年4月 --></label>
+        <name>April_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前年4月 --></label>
+        <name>April_The_Year_Before_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年8月 --></label>
+        <name>August_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年8月 --></label>
+        <name>August_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前年8月 --></label>
+        <name>August_The_Year_Before_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年12月 --></label>
+        <name>December_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年12月 --></label>
+        <name>December_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前年12月 --></label>
+        <name>December_The_Year_Before_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年2月 --></label>
+        <name>February_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年2月 --></label>
+        <name>February_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前年2月 --></label>
+        <name>February_The_Year_Before_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年1月 --></label>
+        <name>January_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年1月 --></label>
+        <name>January_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前年1月 --></label>
+        <name>January_The_Year_Before_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年7月 --></label>
+        <name>July_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年7月 --></label>
+        <name>July_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前年7月 --></label>
+        <name>July_The_Year_Before_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年6月 --></label>
+        <name>June_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年6月 --></label>
+        <name>June_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前年6月 --></label>
+        <name>June_The_Year_Before_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 放款趨勢外鍵 --></label>
+        <name>Loan_Trend_External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年3月 --></label>
+        <name>March_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年3月 --></label>
+        <name>March_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前年3月 --></label>
+        <name>March_The_Year_Before_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年5月 --></label>
+        <name>May_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年5月 --></label>
+        <name>May_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前年5月 --></label>
+        <name>May_The_Year_Before_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年11月 --></label>
+        <name>November_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年11月 --></label>
+        <name>November_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前年11月 --></label>
+        <name>November_The_Year_Before_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年10月 --></label>
+        <name>October_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年10月 --></label>
+        <name>October_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前年10月 --></label>
+        <name>October_The_Year_Before_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 今年9月 --></label>
+        <name>September_Current_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 去年9月 --></label>
+        <name>September_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 前年9月 --></label>
+        <name>September_The_Year_Before_Last_Year__c</name>
+    </fields>
+    <fields>
+        <label><!-- 年份 --></label>
+        <name>Year__c</name>
+    </fields>
+    <layouts>
+        <layout>放款趨勢 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- Name --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

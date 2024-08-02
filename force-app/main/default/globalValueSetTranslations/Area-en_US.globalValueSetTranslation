@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>中區</masterLabel>
+        <translation><!-- 中區 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北區</masterLabel>
+        <translation><!-- 北區 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>南區</masterLabel>
+        <translation><!-- 南區 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>桃竹</masterLabel>
+        <translation><!-- 桃竹 --></translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>

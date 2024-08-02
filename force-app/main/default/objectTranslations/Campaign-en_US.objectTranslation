@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <label><!-- 審核通過日期 --></label>
+        <name>Approved_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 審核人 --></label>
+        <name>Approver__c</name>
+        <relationshipLabel><!-- Campaigns --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 行銷活動簡介 --></label>
+        <name>Campaign_Description__c</name>
+    </fields>
+    <fields>
+        <label><!-- 名單開發迄日 --></label>
+        <name>Campaign_End_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 行銷活動編號 --></label>
+        <name>Campaign_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 行銷活動擁有者員編 --></label>
+        <name>Campaign_Owner_Emploee_No__c</name>
+    </fields>
+    <fields>
+        <label><!-- 名單開發起日 --></label>
+        <name>Campaign_Start_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 名單類別 --></label>
+        <name>Campaign_Type__c</name>
+        <picklistValues>
+            <masterLabel>Oversea General Campaign</masterLabel>
+            <translation><!-- Oversea General Campaign --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Oversea TMRAC Campaign</masterLabel>
+            <translation><!-- Oversea TMRAC Campaign --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>一般名單</masterLabel>
+            <translation><!-- 一般名單 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>企個名單</masterLabel>
+            <translation><!-- 企個名單 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>拓客名單</masterLabel>
+            <translation><!-- 拓客名單 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 行銷活動派發國家 --></label>
+        <name>Distribute_Country__c</name>
+    </fields>
+    <fields>
+        <label><!-- 名單派發邏輯 --></label>
+        <name>Lead_Distrib_Logic__c</name>
+        <picklistValues>
+            <masterLabel>派發給有權人員</masterLabel>
+            <translation><!-- 派發給有權人員 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>直接派發給RM或指定人員</masterLabel>
+            <translation><!-- 直接派發給RM或指定人員 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- 名單開發迄日 + 365日 --></help>
+        <label><!-- 名單實際有效迄日 --></label>
+        <name>Lead_Eff_End_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 名單實際已到期 --></label>
+        <name>Lead_Expired__c</name>
+    </fields>
+    <fields>
+        <label><!-- 名單上傳匯總 --></label>
+        <name>Roll_up_summary_All_Staging_Lead_Count__c</name>
+    </fields>
+    <fields>
+        <label><!-- RM匯總 --></label>
+        <name>Roll_up_summary_ToPerson__c</name>
+    </fields>
+    <fields>
+        <label><!-- 有權人員匯總 --></label>
+        <name>Roll_up_summary_ToQueue__c</name>
+    </fields>
+    <fields>
+        <label><!-- Approval process開關 --></label>
+        <name>Roll_up_summary_formula__c</name>
+    </fields>
+    <fields>
+        <label><!-- 名單來源 --></label>
+        <name>Source__c</name>
+        <picklistValues>
+            <masterLabel>Salesforce 產製名單</masterLabel>
+            <translation><!-- Salesforce 產製名單 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>外部名單</masterLabel>
+            <translation><!-- 外部名單 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- 類別說明 --></label>
+        <name>Type_Desc__c</name>
+    </fields>
+    <layouts>
+        <layout>Domestic Campaign Layout</layout>
+        <sections>
+            <label><!-- 審核資訊 --></label>
+            <section>審核資訊</section>
+        </sections>
+        <sections>
+            <label><!-- 開發期間 --></label>
+            <section>開發期間</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- 名單撤回 --></label>
+        <name>Delete_Lead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- 名單派發 --></label>
+        <name>Distribute_Lead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- 名單重分配 --></label>
+        <name>Distribute_Staging_Lead</name>
+    </quickActions>
+    <recordTypes>
+        <label><!-- 國內行銷活動 --></label>
+        <name>Domestic_Campaign</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Oversea Campaign --></label>
+        <name>Oversea_Campaign</name>
+    </recordTypes>
+</CustomObjectTranslation>

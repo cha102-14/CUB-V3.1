@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- Client Tags --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- Client Tags --></value>
+    </caseValues>
+    <fields>
+        <label><!-- Entity Id --></label>
+        <name>Entity_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- Is Processed --></label>
+        <name>Is_Processed__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tag Category --></label>
+        <name>Tag_Category__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tag --></label>
+        <name>Tag__c</name>
+    </fields>
+    <nameFieldLabel><!-- Client Tag No. --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

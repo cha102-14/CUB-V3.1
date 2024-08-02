@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <recordTypes>
+        <description><!-- Contact data for an institution or a business account --></description>
+        <label><!-- Business --></label>
+        <name>FinServ__IndustriesBusiness</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Contact data for a retail client --></description>
+        <label><!-- Individual --></label>
+        <name>FinServ__IndustriesIndividual</name>
+    </recordTypes>
+</CustomObjectTranslation>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 自營債交易 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 自營債交易 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- 客戶非公開資訊 --></label>
+        <name>Account_Private_Info__c</name>
+        <relationshipLabel><!-- 自營債交易 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 客戶 --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- 自營債交易 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 債券前手息 --></label>
+        <name>Accrued_Interest__c</name>
+    </fields>
+    <fields>
+        <label><!-- 金額 --></label>
+        <name>Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 債券代號(ISIN) --></label>
+        <name>Bond_Code_ISIN__c</name>
+    </fields>
+    <fields>
+        <label><!-- 債券面額 --></label>
+        <name>Bond_Face_Value__c</name>
+    </fields>
+    <fields>
+        <label><!-- 自營債交易外鍵 --></label>
+        <name>Bond_Transaction_External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 買賣金額 --></label>
+        <name>Buy_Sell_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 買入/賣出 --></label>
+        <name>Buy_Sell__c</name>
+    </fields>
+    <fields>
+        <label><!-- 在途註記 --></label>
+        <name>In_Transit_Note__c</name>
+    </fields>
+    <fields>
+        <label><!-- 發放日 --></label>
+        <name>Issue_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 備註 --></label>
+        <name>Remarks__c</name>
+    </fields>
+    <fields>
+        <label><!-- 交割金額 --></label>
+        <name>Settlement_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 交割日 --></label>
+        <name>Settlement_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 交易金額 --></label>
+        <name>Transaction_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 交易日 --></label>
+        <name>Transaction_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 成交價格(除息價) --></label>
+        <name>Transaction_Price_Ex_Coupon_Price__c</name>
+    </fields>
+    <fields>
+        <label><!-- 轉入/轉出 --></label>
+        <name>Transfer_In_Out__c</name>
+    </fields>
+    <fields>
+        <label><!-- 類型 --></label>
+        <name>Type__c</name>
+        <picklistValues>
+            <masterLabel>移券</masterLabel>
+            <translation><!-- 移券 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>買賣</masterLabel>
+            <translation><!-- 買賣 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>配息</masterLabel>
+            <translation><!-- 配息 --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>自營債交易 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- 債券名稱 --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

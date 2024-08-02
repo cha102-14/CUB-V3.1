@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 投資型商品 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 投資型商品 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- 帳戶結束日期 --></label>
+        <name>Account_Date_Closed__c</name>
+    </fields>
+    <fields>
+        <label><!-- 帳戶建立日期 --></label>
+        <name>Account_Date_Opened__c</name>
+    </fields>
+    <fields>
+        <label><!-- 客戶非公開資訊 --></label>
+        <name>Account_Private_Info__c</name>
+        <relationshipLabel><!-- 投資型商品 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 客戶 --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- 投資型商品 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 金額/名目本金 --></label>
+        <name>Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 主約保費 --></label>
+        <name>Main_Premium_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 市價評估 --></label>
+        <name>Market_Value_Assessment__c</name>
+    </fields>
+    <fields>
+        <label><!-- 到期日 --></label>
+        <name>Maturity_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 已繳保費(新臺幣) --></label>
+        <name>Paid_Premium_TWD__c</name>
+    </fields>
+    <fields>
+        <label><!-- 保單生效日 --></label>
+        <name>Policy_Effective_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 保單到期日 --></label>
+        <name>Policy_Maturity_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 現值 --></label>
+        <name>Present_Value__c</name>
+    </fields>
+    <fields>
+        <label><!-- 參考現值(新臺幣) --></label>
+        <name>Reference_Present_Value_TWD__c</name>
+    </fields>
+    <fields>
+        <label><!-- 附約保費 --></label>
+        <name>Sub_Premium_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 投資型商品外鍵 --></label>
+        <name>TMU_Investment_External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- 交易金額 --></label>
+        <name>Transaction_Amount__c</name>
+    </fields>
+    <fields>
+        <label><!-- 交易日期 --></label>
+        <name>Transaction_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 信託本金(原幣) --></label>
+        <name>Trust_Principal_Original_Currency__c</name>
+    </fields>
+    <fields>
+        <label><!-- 類型 --></label>
+        <name>Type__c</name>
+        <picklistValues>
+            <masterLabel>ETF</masterLabel>
+            <translation><!-- ETF --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>保險</masterLabel>
+            <translation><!-- 保險 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>國外有價證券</masterLabel>
+            <translation><!-- 國外有價證券 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>基金</masterLabel>
+            <translation><!-- 基金 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>組合式商品</masterLabel>
+            <translation><!-- 組合式商品 --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>投資型商品 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- 商品類別/名稱 --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

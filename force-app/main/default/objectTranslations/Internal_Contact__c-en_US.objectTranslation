@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 行內聯絡窗口 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 行內聯絡窗口 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- 客戶非公開資訊 --></label>
+        <name>Account_Private_Info__c</name>
+        <relationshipLabel><!-- 行內聯絡窗口 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 客戶 --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- 行內聯絡窗口 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- CS員編 --></label>
+        <name>CS_Employee_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- CS姓名 --></label>
+        <name>CS_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- CS電話 --></label>
+        <name>CS_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- CS所屬單位 --></label>
+        <name>CS_Unit__c</name>
+    </fields>
+    <fields>
+        <label><!-- 行內聯絡窗口外鍵 --></label>
+        <name>Internal_Contact_External_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- PH窗口員編 --></label>
+        <name>PH_Employee_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- PH窗口姓名 --></label>
+        <name>PH_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- PH窗口電話 --></label>
+        <name>PH_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- PH窗口所屬單位 --></label>
+        <name>PH_Unit__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司負責人經管理專所屬單位 --></label>
+        <name>PRINCIPAL_WM_AO_BRANCH_DESC__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司負責人經管理專員編 --></label>
+        <name>PRINCIPAL_WM_AO_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司負責人經管理專姓名 --></label>
+        <name>PRINCIPAL_WM_AO_NAME__c</name>
+    </fields>
+    <fields>
+        <label><!-- 公司負責人經管理專電話 --></label>
+        <name>PRINCIPAL_WM_AO_PHONE__c</name>
+    </fields>
+    <fields>
+        <label><!-- PS員編 --></label>
+        <name>PS_Employee_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- PS姓名 --></label>
+        <name>PS_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- PS電話 --></label>
+        <name>PS_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- PS所屬單位 --></label>
+        <name>PS_Unit__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管AO員編 --></label>
+        <name>RM_Employee_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管AO姓名 --></label>
+        <name>RM_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管AO電話 --></label>
+        <name>RM_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管AO所屬單位 --></label>
+        <name>RM_Unit__c</name>
+    </fields>
+    <fields>
+        <label><!-- 特店窗口員編 --></label>
+        <name>Special_Store_Window_Employee_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- 特店窗口姓名 --></label>
+        <name>Special_Store_Window_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 特店窗口電話 --></label>
+        <name>Special_Store_Window_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- 特店窗口所屬單位 --></label>
+        <name>Special_Store_Window_Unit__c</name>
+    </fields>
+    <fields>
+        <label><!-- TMO員編 --></label>
+        <name>TMO_Employee_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- TMO姓名 --></label>
+        <name>TMO_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- TMO電話 --></label>
+        <name>TMO_Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- TMO所屬單位 --></label>
+        <name>TMO_Unit__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管理專所屬單位 --></label>
+        <name>WM_AO_BRANCH_DESC__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管理專員編 --></label>
+        <name>WM_AO_ID__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管理專姓名 --></label>
+        <name>WM_AO_NAME__c</name>
+    </fields>
+    <fields>
+        <label><!-- 經管理專電話 --></label>
+        <name>WM_AO_PHONE__c</name>
+    </fields>
+    <layouts>
+        <layout>行內聯絡窗口 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- Name --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

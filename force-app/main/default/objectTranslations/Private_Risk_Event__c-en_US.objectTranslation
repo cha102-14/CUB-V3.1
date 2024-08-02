@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- 行內風險事件 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- 行內風險事件 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- 客戶非公開資訊 --></label>
+        <name>Account_Private_Info__c</name>
+        <relationshipLabel><!-- 行內風險事件 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 客戶 --></label>
+        <name>Account__c</name>
+        <relationshipLabel><!-- 行內風險事件 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- 警示日期 --></label>
+        <name>Alert_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 警示解除日期 --></label>
+        <name>Alert_Release_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- 資料來源 --></label>
+        <name>Data_Source__c</name>
+    </fields>
+    <fields>
+        <label><!-- 顯示主體 --></label>
+        <name>Party_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- 行內風險事件外鍵 --></label>
+        <name>Private_Risk_Event_External_Id__c</name>
+    </fields>
+    <layouts>
+        <layout>行內風險事件 Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <nameFieldLabel><!-- 警示說明 --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

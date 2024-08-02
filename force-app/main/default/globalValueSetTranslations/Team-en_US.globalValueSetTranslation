@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSetTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <valueTranslation>
+        <masterLabel>ICC Team1</masterLabel>
+        <translation><!-- ICC Team1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>ICC Team2</masterLabel>
+        <translation><!-- ICC Team2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>VN Team1</masterLabel>
+        <translation><!-- VN Team1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>VN Team2</masterLabel>
+        <translation><!-- VN Team2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>VN Team3</masterLabel>
+        <translation><!-- VN Team3 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>中一MM1</masterLabel>
+        <translation><!-- 中一MM1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>中一SME1</masterLabel>
+        <translation><!-- 中一SME1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>中一SME2</masterLabel>
+        <translation><!-- 中一SME2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>中二MM1</masterLabel>
+        <translation><!-- 中二MM1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>中二SME1</masterLabel>
+        <translation><!-- 中二SME1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>中二SME2</masterLabel>
+        <translation><!-- 中二SME2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北一MM1</masterLabel>
+        <translation><!-- 北一MM1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北一SME1</masterLabel>
+        <translation><!-- 北一SME1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北一SME2</masterLabel>
+        <translation><!-- 北一SME2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北三SME1</masterLabel>
+        <translation><!-- 北三SME1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北三SME2</masterLabel>
+        <translation><!-- 北三SME2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北二MM1</masterLabel>
+        <translation><!-- 北二MM1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北二MM2</masterLabel>
+        <translation><!-- 北二MM2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北二SME1</masterLabel>
+        <translation><!-- 北二SME1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北二SME2</masterLabel>
+        <translation><!-- 北二SME2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北四MM1</masterLabel>
+        <translation><!-- 北四MM1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北四MM2</masterLabel>
+        <translation><!-- 北四MM2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北四MM3</masterLabel>
+        <translation><!-- 北四MM3 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北四SME1</masterLabel>
+        <translation><!-- 北四SME1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北四SME2</masterLabel>
+        <translation><!-- 北四SME2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>北四SME3</masterLabel>
+        <translation><!-- 北四SME3 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>台南MM3</masterLabel>
+        <translation><!-- 台南MM3 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>台南SME2</masterLabel>
+        <translation><!-- 台南SME2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>台南SME3</masterLabel>
+        <translation><!-- 台南SME3 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>投金1</masterLabel>
+        <translation><!-- 投金1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>投金2</masterLabel>
+        <translation><!-- 投金2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>投金3</masterLabel>
+        <translation><!-- 投金3 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>桃竹MM1</masterLabel>
+        <translation><!-- 桃竹MM1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>桃竹SME1</masterLabel>
+        <translation><!-- 桃竹SME1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>產一1</masterLabel>
+        <translation><!-- 產一1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>產一2</masterLabel>
+        <translation><!-- 產一2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>產一3</masterLabel>
+        <translation><!-- 產一3 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>產三1</masterLabel>
+        <translation><!-- 產三1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>產三2</masterLabel>
+        <translation><!-- 產三2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>產三3</masterLabel>
+        <translation><!-- 產三3 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>產二1</masterLabel>
+        <translation><!-- 產二1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>產二2</masterLabel>
+        <translation><!-- 產二2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>產二3</masterLabel>
+        <translation><!-- 產二3 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>高雄MM1</masterLabel>
+        <translation><!-- 高雄MM1 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>高雄MM2</masterLabel>
+        <translation><!-- 高雄MM2 --></translation>
+    </valueTranslation>
+    <valueTranslation>
+        <masterLabel>高雄SME1</masterLabel>
+        <translation><!-- 高雄SME1 --></translation>
+    </valueTranslation>
+</GlobalValueSetTranslation>
