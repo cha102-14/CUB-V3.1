@@ -19098,7 +19098,6 @@
     <flowDefinitions>
         <flows/>
         <fullName>Lead_Update_Lead_Owner_Team</fullName>
-        <fullName>Staging_Lead_Duplicate_Exclusion</fullName>
     </flowDefinitions>
     <flowDefinitions>
         <flows>
@@ -21044,32 +21043,6 @@
         </flows>
         <fullName>User_Auto_Create_Personnel_When_Creating_User</fullName>
     </flowDefinitions>
-    <reportTypes>
-        <description><!-- Campaign Upload --></description>
-        <label><!-- Campaign Upload --></label>
-        <name>Campaign_Upload</name>
-        <sections>
-            <label><!-- Campaigns --></label>
-            <name>Campaigns</name>
-        </sections>
-        <sections>
-            <label><!-- 名單上傳 --></label>
-            <name>名單上傳</name>
-        </sections>
-    </reportTypes>
-    <reportTypes>
-        <description><!-- User with Staging Lead --></description>
-        <label><!-- User with Staging Lead --></label>
-        <name>User_with_Staging_Lead</name>
-        <sections>
-            <label><!-- Users --></label>
-            <name>Users</name>
-        </sections>
-        <sections>
-            <label><!-- 名單上傳 --></label>
-            <name>名單上傳</name>
-        <fullName>Survey_Result_Item_Check_If_It_Is_a_Recommended_Product</fullName>
-    </flowDefinitions>
     <quickActions>
         <label><!-- 記錄通話 --></label>
         <name>LogACall</name>
@@ -21159,6 +21132,32 @@
         <name>SendEmail</name>
     </quickActions>
     <reportTypes>
+        <description><!-- Campaign Upload --></description>
+        <label><!-- Campaign Upload --></label>
+        <name>Campaign_Upload</name>
+        <sections>
+            <label><!-- Campaigns --></label>
+            <name>Campaigns</name>
+        </sections>
+        <sections>
+            <label><!-- 名單上傳 --></label>
+            <name>名單上傳</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- User with Staging Lead --></description>
+        <label><!-- User with Staging Lead --></label>
+        <name>User_with_Staging_Lead</name>
+        <sections>
+            <label><!-- Users --></label>
+            <name>Users</name>
+        </sections>
+        <sections>
+            <label><!-- 名單上傳 --></label>
+            <name>名單上傳</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
         <description><!-- Clients --></description>
         <label><!-- Clients --></label>
         <name>FinServ__Clients</name>
@@ -21201,97 +21200,6 @@
         <sections>
             <label><!-- Households --></label>
             <name>Households</name>
-        </sections>
-    </reportTypes>
-    <reportTypes>
-        <description><!-- 協調流程執行記錄 Spring &apos;24 --></description>
-        <label><!-- 協調流程執行記錄 Spring &apos;24 --></label>
-        <name>flow_orchestration_log_ootb_crt_two_four_eight</name>
-        <sections>
-            <label><!-- 協調流程執行記錄 --></label>
-            <name>協調流程執行記錄</name>
-        </sections>
-    </reportTypes>
-    <reportTypes>
-        <description><!-- Orchestration Runs --></description>
-        <label><!-- Orchestration Runs --></label>
-        <name>flow_orchestration_run_crt</name>
-        <sections>
-            <label><!-- Orchestration Runs --></label>
-            <name>Orchestration Runs</name>
-        </sections>
-    </reportTypes>
-    <reportTypes>
-        <description><!-- 協調流程執行 Spring &apos;24 --></description>
-        <label><!-- 協調流程執行 Spring &apos;24 --></label>
-        <name>flow_orchestration_run_ootb_crt_two_four_eight</name>
-        <sections>
-            <label><!-- 協調流程執行 --></label>
-            <name>協調流程執行</name>
-        </sections>
-    </reportTypes>
-    <reportTypes>
-        <description><!-- 協調流程階段執行 Spring &apos;24 --></description>
-        <label><!-- 協調流程階段執行 Spring &apos;24 --></label>
-        <name>flow_orchestration_stage_run_ootb_crt_two_four_eight</name>
-        <sections>
-            <label><!-- 協調流程階段執行 --></label>
-            <name>協調流程階段執行</name>
-        </sections>
-    </reportTypes>
-    <reportTypes>
-        <description><!-- 協調流程步驟執行 Spring &apos;24 --></description>
-        <label><!-- 協調流程步驟執行 Spring &apos;24 --></label>
-        <name>flow_orchestration_step_run_ootb_crt_two_four_eight</name>
-        <sections>
-            <label><!-- 協調流程步驟執行 --></label>
-            <name>協調流程步驟執行</name>
-        </sections>
-    </reportTypes>
-    <reportTypes>
-        <description><!-- 協調流程工作項目 Spring &apos;24 --></description>
-        <label><!-- 協調流程工作項目 Spring &apos;24 --></label>
-        <name>flow_orchestration_work_item_ootb_crt_two_four_eight</name>
-        <sections>
-            <columns>
-                <label><!-- 已指派User --></label>
-                <name>已指派User</name>
-            </columns>
-            <columns>
-                <label><!-- 已指派群組或佇列 --></label>
-                <name>已指派群組或佇列</name>
-            </columns>
-            <label><!-- 協調流程工作執行 --></label>
-            <name>協調流程工作執行</name>
-        </sections>
-        <sections>
-            <columns>
-                <label><!-- 協調流程步驟執行：Label --></label>
-                <name>協調流程步驟執行：Label</name>
-            </columns>
-            <columns>
-                <label><!-- 協調流程步驟執行：Name --></label>
-                <name>協調流程步驟執行：Name</name>
-            </columns>
-            <columns>
-                <label><!-- 協調流程步驟執行：Status --></label>
-                <name>協調流程步驟執行：Status</name>
-            </columns>
-            <label><!-- 協調流程步驟執行 --></label>
-            <name>協調流程步驟執行</name>
-        </sections>
-    </reportTypes>
-    <reportTypes>
-        <description><!-- Screen Flows --></description>
-        <label><!-- Screen Flows --></label>
-        <name>screen_flows_prebuilt_crt</name>
-        <sections>
-            <label><!-- Flow Interview Log Entries --></label>
-            <name>Flow Interview Log Entries</name>
-        </sections>
-        <sections>
-            <label><!-- Flow Interview Logs --></label>
-            <name>Flow Interview Logs</name>
         </sections>
     </reportTypes>
 </Translations>

@@ -646,21 +646,6 @@
         <name>VIP__c</name>
     </fields>
     <layouts>
-        <layout>Account (Business Referral) Layout</layout>
-        <sections>
-            <label><!-- Custom Links --></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label><!-- Financial Summary --></label>
-            <section>Financial Summary</section>
-        </sections>
-        <sections>
-            <label><!-- Referral Information --></label>
-            <section>Referral Information</section>
-        </sections>
-    </layouts>
-    <layouts>
         <layout>CUB Company Layout</layout>
         <sections>
             <label><!-- Custom Links --></label>

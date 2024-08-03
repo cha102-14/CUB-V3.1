@@ -718,24 +718,6 @@
             <section>System Information</section>
         </sections>
     </layouts>
-    <layouts>
-        <layout>Lead (General) Layout</layout>
-        <sections>
-            <label><!-- Custom Links --></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label><!-- Referral Information --></label>
-            <section>Referral Information</section>
-        </sections>
-    </layouts>
-    <layouts>
-        <layout>Lead (Referral) Layout</layout>
-        <sections>
-            <label><!-- Referral Information --></label>
-            <section>Referral Information</section>
-        </sections>
-    </layouts>
     <recordTypes>
         <label><!-- 國內_行銷名單 --></label>
         <name>CUB_Domestic_Campaign</name>

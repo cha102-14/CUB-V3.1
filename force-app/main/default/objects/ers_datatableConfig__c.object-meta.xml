@@ -163,7 +163,6 @@
     <pluralLabel>ers_datatableConfigs</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
-    <startsWith>Vowel</startsWith>
     <visibility>Public</visibility>
     <fields>
         <fullName>Edits__c</fullName>

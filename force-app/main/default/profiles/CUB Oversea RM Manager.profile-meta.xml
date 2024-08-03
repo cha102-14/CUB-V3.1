@@ -6074,61 +6074,6 @@
         <field>User.Unit__c</field>
         <readable>false</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>ers_datatableConfig__c.Active__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>ers_datatableConfig__c.Alignments__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>ers_datatableConfig__c.Cell_Attributes__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>ers_datatableConfig__c.Edits__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>ers_datatableConfig__c.Filters__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>ers_datatableConfig__c.Icons__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>ers_datatableConfig__c.Labels__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>ers_datatableConfig__c.Other_Attributes__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>ers_datatableConfig__c.Type_Attributes__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>ers_datatableConfig__c.Widths__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>ers_datatableConfig__c.Wraps__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
     <flowAccesses>
         <enabled>false</enabled>
         <flow>AAR_Create_Group_Relationship_AAR_When_AAR_Create</flow>
@@ -6586,9 +6531,6 @@
     <layoutAssignments>
         <layout>WorkOrderLineItem-Work Order Line Item Layout</layout>
     </layoutAssignments>
-    <layoutAssignments>
-        <layout>ers_datatableConfig__c-ers_datatableConfig Layout</layout>
-    </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
@@ -6998,11 +6940,6 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>ers_datatableConfig__c</tab>
-        <visibility>Hidden</visibility>
-    </tabVisibilities>
-    <userLicense>Salesforce</userLicense>
-</Profile>
         <tab>standard-Account</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
