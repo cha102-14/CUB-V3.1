@@ -12,5 +12,6 @@ trigger Trigger_AAR on FinServ__AccountAccountRelation__c(before insert, after i
         AARTriggerHandler.setInverseRelationship(Trigger.oldMap, Trigger.new);
     }
     if(Trigger.isAfter && Trigger.isUpdate) {
+        
     }
 }
